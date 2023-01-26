@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b4868a7681f9e775",
+        "id": "57ff4f3ede76bae7",
         "type": "tabs",
         "children": [
           {
-            "id": "f74b3820abb87856",
+            "id": "7a3615a6f2d2891a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📝 前端面試題/JS - this.md",
+                "file": "JS - 陳述式與表達式.md",
                 "mode": "source",
                 "source": false
               }
@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 694
+    "width": 525
   },
   "right": {
     "id": "767361d9a513804f",
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📝 前端面試題/JS - this.md",
+                "file": "JS - 陳述式與表達式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📝 前端面試題/JS - this.md",
+                "file": "JS - 陳述式與表達式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📝 前端面試題/JS - this.md"
+                "file": "JS - 陳述式與表達式.md"
               }
             }
           },
@@ -164,17 +164,17 @@
       "workspaces:管理工作區配置": false
     }
   },
-  "active": "f74b3820abb87856",
+  "active": "7a3615a6f2d2891a",
   "lastOpenFiles": [
-    "📝 前端面試題/CSS.md",
-    "develop/image/Pasted image 20220531211159.png",
-    "develop/image/截圖 2022-05-08 上午7.13.25.png",
-    "develop/image/04.png",
-    "📚 待研究/未寫Vue3 的新功能 — Suspense.md",
-    "develop/-Vue2 moc.md",
-    "develop/-web運作原理 moc.md",
-    "develop/- 實作練習 MOC.md",
-    "develop/Web 瀏覽器從輸入到渲染發生什麼事？.md",
-    "develop/LeetCode 1299. Replace Elements with Greatest Element on Right Side.md"
+    "develop/-Javascript moc.md",
+    "develop/JS - closure.md",
+    "develop/JS - this.md",
+    "develop/JS - 整合兩筆不同陣列資料.md",
+    "develop/JS - 箭頭函式.md",
+    "develop/JS - 解構賦值 ( destructuring assignment ).md",
+    "develop/JS - 淺拷貝和深拷貝的差異.md",
+    "develop/JS - hoisting.md",
+    "develop/前端考古題 curry function.md",
+    "📝 前端面試題/JS - this.md"
   ]
 }

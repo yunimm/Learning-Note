@@ -30,4 +30,4 @@ Answer :: 簡單敘述瀏覽器運作原理
 7. target server將資料已[[封包]]的形式回傳給瀏覽器
 8. 瀏覽器會開始解析封包，HTML-> DOM tree,CSS-> CSSOM tree, JS則是依照`<script>`屬性不同在不同時間點內載入。
 9. 瀏覽器將DOM tree套用 CSSOM tree樣式並組成render tree，繪製成Layout模型
-10. 頁面繪製完成`<script>`下載的內容執行完畢，瀏覽器進入可互動的狀態，使用者可以操作UI，觸發DOM事件傳遞，並經由[[JS eventloop]]，處理事件並將結果反應至畫面上
+10. 頁面繪製完成`<script>`下載的內容執行完畢，瀏覽器進入可互動的狀態，使用者可以操作UI，觸發DOM事件傳遞，並經由[[JS - eventloop]]，處理事件並將結果反應至畫面上

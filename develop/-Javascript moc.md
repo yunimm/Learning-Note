@@ -2,12 +2,14 @@
 [[JS陣列操作 moc]]
 [[-資料處理 moc]]
 ## JS觀念
-- [[JS eventloop]]
-- [[JS hoisting特性]]
-- [[JS promise]]
-- [[JS 淺拷貝和深拷貝的差異]]
-- [[JS的closure 是什麼?]]
-- [[JS的this 指向]]
+[[JS - 淺拷貝和深拷貝的差異]]
+[[JS - 解構賦值 ( destructuring assignment )]]
+[[JS - 箭頭函式]]
+[[JS - closure]]
+[[JS - eventloop]]
+[[JS - hoisting]]
+[[JS - promise]]
+[[JS - this]]
 
 ## JS資料處理
-- [[JS 整合兩筆不同陣列資料]]
+- [[JS - 整合兩筆不同陣列資料]]
