@@ -10,16 +10,31 @@
           {
             "id": "7a3615a6f2d2891a",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS - 陳述式與表達式.md",
+                "file": "develop/JS - 陳述式(statement)與表達式(expression).md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "36b1c3801e99e7fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JS - ASI(Automatic Semicolon Insertion)機制.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -38,7 +53,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -104,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS - 陳述式與表達式.md",
+                "file": "JS - ASI(Automatic Semicolon Insertion)機制.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS - 陳述式與表達式.md",
+                "file": "JS - ASI(Automatic Semicolon Insertion)機制.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JS - 陳述式與表達式.md"
+                "file": "JS - ASI(Automatic Semicolon Insertion)機制.md"
               }
             }
           },
@@ -164,17 +179,17 @@
       "workspaces:管理工作區配置": false
     }
   },
-  "active": "7a3615a6f2d2891a",
+  "active": "36b1c3801e99e7fe",
   "lastOpenFiles": [
-    "develop/-Javascript moc.md",
-    "develop/JS - closure.md",
+    "develop/JS - 陳述式(statement)與表達式(expression).md",
+    "JS - ASI(Automatic Semicolon Insertion)機制.md",
     "develop/JS - this.md",
-    "develop/JS - 整合兩筆不同陣列資料.md",
     "develop/JS - 箭頭函式.md",
-    "develop/JS - 解構賦值 ( destructuring assignment ).md",
-    "develop/JS - 淺拷貝和深拷貝的差異.md",
-    "develop/JS - hoisting.md",
-    "develop/前端考古題 curry function.md",
-    "📝 前端面試題/JS - this.md"
+    "develop/source document/@Pinia Doc.md",
+    "develop/source document/@VueSchool.md",
+    "develop/source document/@掘金.md",
+    "develop/source document/＠卡斯伯.md",
+    "develop/使用 axios 介接 API.md",
+    "develop/-Javascript moc.md"
   ]
 }
