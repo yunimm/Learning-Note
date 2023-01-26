@@ -1,0 +1,1 @@
+[[node.js語法：fs.promise.stat]]

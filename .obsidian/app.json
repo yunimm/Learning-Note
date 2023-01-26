@@ -1,0 +1,9 @@
+{
+  "showFrontmatter": false,
+  "strictLineBreaks": true,
+  "promptDelete": false,
+  "newFileLocation": "folder",
+  "alwaysUpdateLinks": true,
+  "communityThemeSortOrder": "release",
+  "fileSortOrder": "byModifiedTime"
+}

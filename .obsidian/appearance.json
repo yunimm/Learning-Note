@@ -1,0 +1,9 @@
+{
+  "cssTheme": "Encore",
+  "translucency": false,
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "style"
+  ],
+  "accentColor": ""
+}

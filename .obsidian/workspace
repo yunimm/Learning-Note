@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "f1b2234805174fbc",
+    "type": "split",
+    "children": [
+      {
+        "id": "07ce5cd48f159c6b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "React - useFetch ( custom hook ).md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6e86c65f493d1ffb",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec65661c52b77f06",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "941ef3695e2f35cd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "fd51e79b2d8c9133",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "35e7cf0bfd9e2137",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "2640488f40d487ea",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d2d80af65582507f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 369
+  },
+  "right": {
+    "id": "767361d9a513804f",
+    "type": "split",
+    "children": [
+      {
+        "id": "ffc072906c51742d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3821a077259be78",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "React - useFetch ( custom hook ).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "f59feb48f06dfde1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "React - useFetch ( custom hook ).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "e7391c4618ac032b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "React - useFetch ( custom hook ).md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "07ce5cd48f159c6b",
+  "lastOpenFiles": [
+    "React - router ( v6.4 ).md",
+    "React - useFetch ( custom hook ).md",
+    "axios finally 做什麼用途？.md",
+    "使用 axios 介接 API.md",
+    "React - useEffect.md",
+    "React - 共用同一個狀態開關modal @@.md",
+    "套件 -  classNames.md",
+    "React - Portal 概念.md",
+    "React - 分頁元件切換＠＠.md",
+    "Vue2 Mixins.md"
+  ]
+}
