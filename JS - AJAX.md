@@ -24,3 +24,5 @@ AJAX : 非同步的Javascript和XML的瀏覽器與伺服器溝通的方法。瀏
 ---
 
 # Note
+
+1. 傳統非ajax請求方式：
