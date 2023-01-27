@@ -5,8 +5,7 @@ aliases : []
 # Metadata
 Status :: #🌱 <br>
 Note Type :: #📨/📚️ <br>
-Source URL :: {書籍 URL} <br>
-Author :: {作者名稱} <br>
+Source URL :: [[js面試力]] [[B站教學]] [教學連結](https://www.bilibili.com/video/BV1cR4y1P7B1/?spm_id_from=333.999.0.0)<br><br>
 Topics :: [[-Javascript moc]]<br>
 
 # Evergreen Note
@@ -23,8 +22,16 @@ AJAX : 非同步的Javascript和XML的瀏覽器與伺服器溝通的方法。瀏
 ---
 
 # Note
-
 傳統網頁請求方式：
+	1. 輸入URL
+	2. 點擊超連結
+	3. 送出表單
+	4. 使用Javascript送出請求
+	   `window.open(url)`
+	   `document.location.href = url`
+	   `window.location.href = url`
+
+缺點：
 - 伺服器處理使用者每個行為都需要重新載入頁面(即便只是部分資料更新，也是需要重新向伺服器請求全部資料)瀏覽器收到資料後再全部重新渲染。如果遇到資料量太龐大，則瀏覽器畫面則會卡住，造成使用者體驗不佳。
 
 圖解：

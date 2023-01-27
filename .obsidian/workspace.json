@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "develop/JS - 淺拷貝和深拷貝的差異.md",
+                "file": "Template/Note 1 - 📚️  +  💿   Mixing.md",
                 "mode": "source",
                 "source": false
               }
@@ -22,13 +22,15 @@
           {
             "id": "e2f1818ea9674c73",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS - AJAX.md",
+                "file": "develop/JS - AJAX.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ],
@@ -51,7 +53,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -117,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS - AJAX.md",
+                "file": "develop/JS - AJAX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS - AJAX.md",
+                "file": "develop/JS - AJAX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -146,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JS - AJAX.md"
+                "file": "develop/JS - AJAX.md"
               }
             }
           },
@@ -179,15 +181,15 @@
   },
   "active": "e2f1818ea9674c73",
   "lastOpenFiles": [
+    "Template/Note 1 - 📚️  +  💿   Mixing.md",
+    "develop/JS - AJAX.md",
     "develop/JS - 淺拷貝和深拷貝的差異.md",
     "📝 前端面試題/JS - this.md",
     "develop/obsidian hotkeys.md",
-    "JS - ASI(Automatic Semicolon Insertion)機制.md",
+    "develop/JS - ASI(Automatic Semicolon Insertion)機制.md",
     "develop/JS - 陳述式(statement)與表達式(expression).md",
     "develop/JS - this.md",
     "develop/JS - 箭頭函式.md",
-    "develop/source document/@Pinia Doc.md",
-    "develop/source document/@VueSchool.md",
-    "develop/source document/@掘金.md"
+    "develop/source document/@Pinia Doc.md"
   ]
 }
