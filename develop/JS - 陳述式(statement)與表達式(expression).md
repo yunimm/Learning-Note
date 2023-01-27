@@ -22,13 +22,21 @@ Answer :: 陳述式與表達式最大差異在於會不會回傳值，陳述式�
 表達式判斷法：
 - 純值
 - 變數
-- 運算子
+- 運算子 
+```
+a = 1 //回傳1
+delete a //回傳true
+typeof 'abc' //回傳String
+```
 - 執行函式
 - 正規表達式
 - 函式表達式
 
 陳述式判斷法：
-- 宣告(var, const, let)
+- 宣告(var, const, let) 
+```
+var a = 1; //雖然有包含表達式，但並不會回傳值，所以還是屬於陳述式
+```
 - 流程控制(block, if...else)
 - 迴圈(for, for...in)
 - 其他(import, export)
