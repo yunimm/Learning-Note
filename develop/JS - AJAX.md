@@ -5,7 +5,7 @@ aliases : []
 # Metadata
 Status :: #🌱 <br>
 Note Type :: #📨/📚️ <br>
-Source URL :: [[js面試力]] [[B站教學]] [教學連結](https://www.bilibili.com/video/BV1cR4y1P7B1/?spm_id_from=333.999.0.0)<br><br>
+Source URL :: [[js面試力]] [[B站教學]] [教學連結p1-p5](https://www.bilibili.com/video/BV1cR4y1P7B1/?spm_id_from=333.999.0.0)<br><br>
 Topics :: [[-Javascript moc]]<br>
 
 # Evergreen Note
@@ -17,7 +17,8 @@ Answer ::
 ---
 
 # Summary 
-AJAX : 非同步的Javascript和XML的瀏覽器與伺服器溝通的方法。瀏覽器能以非同步的方式對伺服器發出請求並取得資料且瀏覽器不需要重新整理就可以將資料渲染至畫面上，達到更好的使用者體驗
+AJAX : 非同步的Javascript和XML。瀏覽器能以非同步的方式對伺服器發出請求並取得資料且瀏覽器不需要重新整理就可以將資料渲染至畫面上，達到更好的使用者體驗。AJAX透過XMLHttpRequest物件向伺服器發送非同步請求，從伺服器獲得資料再使用Javascript操作DOM而更新畫面。
+
 
 ---
 
