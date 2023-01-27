@@ -7,8 +7,7 @@ Status :: #🌱 <br>
 Note Type :: #📨/📚️ <br>
 Source URL :: {書籍 URL} <br>
 Author :: {作者名稱} <br>
-Topics :: {筆記跟什麼主題有關，用`[Topic],[Topic]` 格式} <br>
-Cover ::
+Topics :: [[-Javascript moc]]<br>
 
 # Evergreen Note
 
@@ -25,4 +24,9 @@ AJAX : 非同步的Javascript和XML的瀏覽器與伺服器溝通的方法。瀏
 
 # Note
 
-1. 傳統非ajax請求方式：
+傳統網頁請求方式：
+- 伺服器處理使用者每個行為都需要重新載入頁面(即便只是部分資料更新，也是需要重新向伺服器請求全部資料)瀏覽器收到資料後再全部重新渲染。如果遇到資料量太龐大，則瀏覽器畫面則會卡住，造成使用者體驗不佳。
+
+圖解：
+![[Pasted image 20230127195751.png]]
+[圖片來源](https://bsscommerce.com/blog/javascript-jquery-ajax-are-they-the-same-or-different/)
