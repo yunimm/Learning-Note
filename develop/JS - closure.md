@@ -5,11 +5,12 @@ aliases : []
 # Metadata
 Status :: #🌱 <br>
 Note Type :: #📨/💿 <br>
-Source URL :: [Closures in JS 🔥 | Namaste JavaScript Episode 10](https://www.youtube.com/watch?v=qikxEIxsXco&t=275s) <br>
-Author :: [[@Akshay Saini]] <br>
-Topics :: [[-Javascript moc]] <br>
-Cover ::
+Source URL :: <br />
+[Closures in JS 🔥 | Namaste JavaScript Episode 10](https://www.youtube.com/watch?v=qikxEIxsXco&t=275s) <br />
+[ExplaninThis](https://www.explainthis.io/zh-hant/interview-guides/javascript/what-is-closure)<br>
 
+Author :: [[@Akshay Saini]]  [[@ExplanThis]]<br>
+Topics :: [[-Javascript moc]] <br>
 # Evergreen Note
 
 Question :: 這部教學主要在說什麼 ?
@@ -23,8 +24,33 @@ Answer :: 深入淺出閉包的概念、原理、用法
 # Summary 
 閉包是什麼：宣告function時，function對其詞法環境綁定(記住了宣告時的作用域環境)，使得內層function可以引用外部變數，並且記住這個變數。因為能夠記住這個外部變數，閉包很常被用來做狀態保存。
 閉包的應用：
-- 變數私有化
-- 延長變數的生命週期：一般函數的詞法環境在函數返回後就被銷毀，但是閉包會保存對創建時所在詞法環境的引用，即便創建時所在的執行上下文被銷毀，但創建時所在詞法環境依然存在，以達到延長變量的生命週期的目的。
+- 狀態保存：例如React中的`useState` 模擬一個簡化版的 `useState` :
+```javascript
+function useState(initState) {
+	let state = initState;
+	
+	function getState(){
+		return state;
+	}
+	function setState(updateState) {
+		state = updateState;
+	}
+
+	return [getState, setState];
+}
+const [count, setCount] = useState(3);
+
+count();//3
+setState(5);//5
+
+```
+- 變數私有化 : 有時候我們在開發時，有些變數並不想讓外部來存取，所以需要變數私有化的方法但JS並不支援變數私有化，我們可以透過閉包的方式做出類似的功能：
+```javascript
+
+```
+- 緩存機制：一般函數的詞法環境在函數返回後就被銷毀，但是閉包會保存對創建時所在詞法環境的引用，即便創建時所在的執行上下文被銷毀，但創建時所在詞法環境依然存在，以達到延長變量的生命週期的目的。
+閉包的缺點：
+- 內存泄露
 
 ---
 
