@@ -21,11 +21,12 @@ Answer :: 深入淺出閉包的概念、原理、用法
 ---
 
 # Summary 
+宣告function時，function對其詞法環境綁定(記住了宣告時的作用域環境)，使得內層function可以引用外層functiton變數就是閉包的概念
 
 ---
 
 # Note
-其實就是scope chain的延伸，function和他的詞法環境綁定形成一個閉包，就是閉包的概念
+
 範例一：
 ```js
 function outer() {
