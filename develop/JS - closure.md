@@ -46,7 +46,34 @@ setState(5);//5
 ```
 - 變數私有化 : 有時候我們在開發時，有些變數並不想讓外部來存取，所以需要變數私有化的方法但JS並不支援變數私有化，我們可以透過閉包的方式做出類似的功能：
 ```javascript
+// privateCounter 沒被法被外部修改
+// 因為閉包的關係 increment 與 decrement 可以存取到 privateCounter
+// 因此 privateCounter 只能夠透過 increment 與 decrement 來改，這能有效避免被誤觸到
+const counter = (function() {
+  let privateCounter = 0;
 
+  function changeBy(val) {
+    privateCounter += val;
+  }
+  return {
+    increment: function() {
+      changeBy(1);
+    },
+    decrement: function() {
+      changeBy(-1);
+    },
+    value: function() {
+      return privateCounter;
+    },
+  }
+})();
+
+console.log(counter.value()); // logs 0
+counter.increment();
+counter.increment();
+console.log(counter.value()); // logs 2
+counter.decrement();
+console.log(counter.value()); // logs 1
 ```
 - 緩存機制：一般函數的詞法環境在函數返回後就被銷毀，但是閉包會保存對創建時所在詞法環境的引用，即便創建時所在的執行上下文被銷毀，但創建時所在詞法環境依然存在，以達到延長變量的生命週期的目的。
 閉包的缺點：
