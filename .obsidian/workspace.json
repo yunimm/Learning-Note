@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "develop/JS - closure.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "展開運算子",
+                "query": "clo",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -165,17 +165,17 @@
       "workspaces:管理工作區配置": false
     }
   },
-  "active": "fd51e79b2d8c9133",
+  "active": "c29c14de70fd1db8",
   "lastOpenFiles": [
+    "develop/JS - this.md",
+    "develop/-Javascript moc.md",
+    "develop/JS - closure.md",
     "Template/Note 1 - 🗞 Paper.md",
     "develop/JS - AJAX.md",
     "Template/Note 1 - 📚️  +  💿   Mixing.md",
     "develop/JS - 淺拷貝和深拷貝的差異.md",
     "📝 前端面試題/JS - this.md",
     "develop/obsidian hotkeys.md",
-    "develop/JS - ASI(Automatic Semicolon Insertion)機制.md",
-    "develop/JS - 陳述式(statement)與表達式(expression).md",
-    "develop/JS - this.md",
-    "develop/JS - 箭頭函式.md"
+    "develop/JS - ASI(Automatic Semicolon Insertion)機制.md"
   ]
 }
