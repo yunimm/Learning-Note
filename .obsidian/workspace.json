@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "閉包",
+                "query": "展開運算子",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -165,7 +165,7 @@
       "workspaces:管理工作區配置": false
     }
   },
-  "active": "c29c14de70fd1db8",
+  "active": "fd51e79b2d8c9133",
   "lastOpenFiles": [
     "Template/Note 1 - 🗞 Paper.md",
     "develop/JS - AJAX.md",

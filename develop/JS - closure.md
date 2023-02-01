@@ -76,6 +76,70 @@ counter.decrement();
 console.log(counter.value()); // logs 1
 ```
 - 緩存機制：一般函數的詞法環境在函數返回後就被銷毀，但是閉包會保存對創建時所在詞法環境的引用，即便創建時所在的執行上下文被銷毀，但創建時所在詞法環境依然存在，以達到延長變量的生命週期的目的。
+  [範例1](https://hackmd.io/@wheat0120/javascript-memoization)
+```javascript
+function getTool(todoTask) {
+  const doneCache = {};
+  return function (){
+    const taskContent = JSON.stringify(arguments);
+
+    if(doneCache[taskContent]) {
+      return doneCache[taskContent];
+    } else {
+      const taskResult = todoTask.apply(this,arguments);
+      doneCache[taskContent] = taskResult;
+      return taskResult;
+    }
+  }
+};
+
+const work = getTool((task) => {
+    console.log('前往倉庫拿工具')
+    return task + ': 已完成工作'
+})
+
+
+console.log('Day1', work('修理馬桶'));
+console.log('Day2', work('修理馬桶'));
+console.log('Day3', work('修理屋頂'));
+
+```
+[範例2](https://www.explainthis.io/zh-hant/interview-guides/javascript-whiteboard/cache-function)
+不確定會帶入幾個參數，可以使用展開運算子的寫法，會將數組轉換成參數
+``` javascript
+let args = [1, 2, 3];
+
+function add(a, b, c) {
+  return a + b + c;
+}
+
+console.log(add(...args)); // Output: 6
+
+```
+
+``` javascript
+function cached(fn) {
+  // 聲明一個 cache 物件，透過 cache 來放緩存的東西
+  // 因為閉包的緣故，下面回傳的函式可以存取到這個 cache 變數
+  const cache = {};
+
+  // 透過擴展運算符，拿到引數
+  return (...args) => {
+    // 將引述當作緩存的 key
+    const key = JSON.stringify(args);
+    // 查看現在的緩存有沒有這個 key，有的話就不用再算，直接回傳
+    if (key in cache) {
+      return cache[key];
+    } else {
+      // 沒有的話，就把收到引數帶入，運算出結果
+      const val = fn(...args);
+      // 把結果放入緩存，下次有同樣的 key 就不用重新運算
+      cache[key] = val;
+      return val;
+    }
+  };
+}
+```
 閉包的缺點：
 - 內存泄露
 
