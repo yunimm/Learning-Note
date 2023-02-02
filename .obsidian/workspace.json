@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "develop/JS - closure.md",
+                "file": "develop/JS - eventloop.md",
                 "mode": "preview",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "clo",
+                "query": "Event loop",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "develop/JS - closure.md",
+                "file": "develop/JS - eventloop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "develop/JS - closure.md",
+                "file": "develop/JS - eventloop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "develop/JS - closure.md"
+                "file": "develop/JS - eventloop.md"
               }
             }
           },
@@ -167,9 +167,9 @@
   },
   "active": "c29c14de70fd1db8",
   "lastOpenFiles": [
+    "develop/JS - closure.md",
     "develop/JS - this.md",
     "develop/-Javascript moc.md",
-    "develop/JS - closure.md",
     "Template/Note 1 - 🗞 Paper.md",
     "develop/JS - AJAX.md",
     "Template/Note 1 - 📚️  +  💿   Mixing.md",
