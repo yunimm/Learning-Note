@@ -4,22 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "38030b4027c61b03",
+        "id": "85769833b69f6df6",
         "type": "tabs",
         "children": [
           {
-            "id": "c29c14de70fd1db8",
+            "id": "8d5b7b4c643b9bd9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "develop/JS - eventloop.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "9d5693fad94fdcfa",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "develop/Web 瀏覽器從輸入到渲染發生什麼事？.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -38,7 +53,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -48,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "single",
+                "query": "瀏覽器",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "develop/JS - eventloop.md",
+                "file": "develop/Web 瀏覽器從輸入到渲染發生什麼事？.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "develop/JS - eventloop.md",
+                "file": "develop/Web 瀏覽器從輸入到渲染發生什麼事？.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "develop/JS - eventloop.md"
+                "file": "develop/Web 瀏覽器從輸入到渲染發生什麼事？.md"
               }
             }
           },
@@ -165,17 +180,17 @@
       "workspaces:管理工作區配置": false
     }
   },
-  "active": "fd51e79b2d8c9133",
+  "active": "9d5693fad94fdcfa",
   "lastOpenFiles": [
-    "develop/JS - closure.md",
-    "develop/JS - this.md",
+    "develop/JS - eventloop.md",
+    "develop/Web 瀏覽器從輸入到渲染發生什麼事？.md",
+    "封包.md",
+    "三次握手連線.md",
     "develop/-Javascript moc.md",
-    "Template/Note 1 - 🗞 Paper.md",
+    "develop/JS - promise.md",
     "develop/JS - AJAX.md",
-    "Template/Note 1 - 📚️  +  💿   Mixing.md",
-    "develop/JS - 淺拷貝和深拷貝的差異.md",
-    "📝 前端面試題/JS - this.md",
-    "develop/obsidian hotkeys.md",
-    "develop/JS - ASI(Automatic Semicolon Insertion)機制.md"
+    "develop/JS - closure.md",
+    "develop/JS - hoisting.md",
+    "📝 前端面試題/JS - this.md"
   ]
 }
