@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "develop/JS - eventloop.md",
+                "file": "develop/JS - 陳述式(statement)與表達式(expression).md",
                 "mode": "source",
                 "source": false
               }
@@ -33,8 +33,7 @@
               "pinned": true
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -63,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mvvm",
+                "query": "js moc",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,8 +98,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -120,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "develop/Web 瀏覽器從輸入到渲染發生什麼事？.md",
+                "file": "develop/JS - 陳述式(statement)與表達式(expression).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "develop/Web 瀏覽器從輸入到渲染發生什麼事？.md",
+                "file": "develop/JS - 陳述式(statement)與表達式(expression).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "develop/Web 瀏覽器從輸入到渲染發生什麼事？.md"
+                "file": "develop/JS - 陳述式(statement)與表達式(expression).md"
               }
             }
           },
@@ -180,10 +178,10 @@
       "workspaces:管理工作區配置": false
     }
   },
-  "active": "fd51e79b2d8c9133",
+  "active": "941ef3695e2f35cd",
   "lastOpenFiles": [
-    "develop/JS - eventloop.md",
     "develop/Web 瀏覽器從輸入到渲染發生什麼事？.md",
+    "develop/JS - eventloop.md",
     "封包.md",
     "三次握手連線.md",
     "develop/-Javascript moc.md",
