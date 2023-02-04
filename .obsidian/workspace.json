@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "瀏覽器",
+                "query": "mvvm",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -180,7 +180,7 @@
       "workspaces:管理工作區配置": false
     }
   },
-  "active": "9d5693fad94fdcfa",
+  "active": "fd51e79b2d8c9133",
   "lastOpenFiles": [
     "develop/JS - eventloop.md",
     "develop/Web 瀏覽器從輸入到渲染發生什麼事？.md",
