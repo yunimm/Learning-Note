@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "develop/JS - 陳述式(statement)與表達式(expression).md",
+                "file": "develop/React - 受控元件與非受控元件差異.md",
                 "mode": "source",
                 "source": false
               }
@@ -62,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "js moc",
+                "query": "非受控",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +98,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -118,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "develop/JS - 陳述式(statement)與表達式(expression).md",
+                "file": "develop/React - 受控元件與非受控元件差異.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "develop/JS - 陳述式(statement)與表達式(expression).md",
+                "file": "develop/React - 受控元件與非受控元件差異.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -147,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "develop/JS - 陳述式(statement)與表達式(expression).md"
+                "file": "develop/React - 受控元件與非受控元件差異.md"
               }
             }
           },
@@ -178,8 +179,10 @@
       "workspaces:管理工作區配置": false
     }
   },
-  "active": "941ef3695e2f35cd",
+  "active": "8d5b7b4c643b9bd9",
   "lastOpenFiles": [
+    "develop/JS - closure.md",
+    "develop/JS - 陳述式(statement)與表達式(expression).md",
     "develop/Web 瀏覽器從輸入到渲染發生什麼事？.md",
     "develop/JS - eventloop.md",
     "封包.md",
@@ -187,8 +190,6 @@
     "develop/-Javascript moc.md",
     "develop/JS - promise.md",
     "develop/JS - AJAX.md",
-    "develop/JS - closure.md",
-    "develop/JS - hoisting.md",
-    "📝 前端面試題/JS - this.md"
+    "develop/JS - hoisting.md"
   ]
 }
