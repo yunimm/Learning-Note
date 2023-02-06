@@ -23,7 +23,9 @@ Answer :: 解釋受控元件與非受控元件的最大差異
 ---
 
 # Note
-**受控元件**：由React使用value屬性和onChange事件更新元件狀態，元件狀態會和DOM同步
+**受控元件**：
+- 表單組件的狀態/數據只由state 維護 修改只能通過setState()來更新,
+- 表單數據是由 React 組件來管理
 ```javascript
 import { useState } from 'react';
 
@@ -49,7 +51,9 @@ function Input() {
 
 ```
 
-**非受控元件**：React只負責渲染，依照使用者的操作行為更新元件狀態，元件狀態不會和DOM同步
+**非受控元件**：
+- 使用ref來從 DOM 節點中獲取表單數據
+- 表單數據將交由 DOM 節點來處理
 ```javascript
 
 import { useRef } from 'react';
