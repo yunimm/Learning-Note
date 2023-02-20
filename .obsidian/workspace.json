@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "mvvm",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +84,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -164,7 +165,7 @@
       "workspaces:管理工作區配置": false
     }
   },
-  "active": "3f15366a4b36701c",
+  "active": "fd51e79b2d8c9133",
   "lastOpenFiles": [
     "develop/-Vue2 moc.md",
     "develop/-Vue moc.md",
