@@ -4,33 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "85769833b69f6df6",
+        "id": "54e172c120fae109",
         "type": "tabs",
         "children": [
           {
-            "id": "8d5b7b4c643b9bd9",
+            "id": "3f15366a4b36701c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "develop/React - 受控元件與非受控元件差異.md",
+                "file": "📚 待研究/未寫 Vue2 OptionAPI.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "9d5693fad94fdcfa",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "develop/Web 瀏覽器從輸入到渲染發生什麼事？.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
             }
           }
         ]
@@ -62,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "single page application",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,8 +84,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -119,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "develop/React - 受控元件與非受控元件差異.md",
+                "file": "📚 待研究/未寫 Vue2 OptionAPI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "develop/React - 受控元件與非受控元件差異.md",
+                "file": "📚 待研究/未寫 Vue2 OptionAPI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -148,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "develop/React - 受控元件與非受控元件差異.md"
+                "file": "📚 待研究/未寫 Vue2 OptionAPI.md"
               }
             }
           },
@@ -179,17 +164,17 @@
       "workspaces:管理工作區配置": false
     }
   },
-  "active": "fd51e79b2d8c9133",
+  "active": "3f15366a4b36701c",
   "lastOpenFiles": [
+    "develop/-Vue2 moc.md",
+    "develop/-Vue moc.md",
+    "develop/React - 受控元件與非受控元件差異.md",
     "develop/JS - closure.md",
     "develop/JS - 陳述式(statement)與表達式(expression).md",
     "develop/Web 瀏覽器從輸入到渲染發生什麼事？.md",
     "develop/JS - eventloop.md",
     "封包.md",
     "三次握手連線.md",
-    "develop/-Javascript moc.md",
-    "develop/JS - promise.md",
-    "develop/JS - AJAX.md",
-    "develop/JS - hoisting.md"
+    "develop/-Javascript moc.md"
   ]
 }
