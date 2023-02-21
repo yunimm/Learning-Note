@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3db41320b615eebd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MVC架構.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1e9c50851a0e985c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "軟體架構MOC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mvvm",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,8 +109,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -105,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📚 待研究/未寫 Vue2 OptionAPI.md",
+                "file": "MVC架構.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📚 待研究/未寫 Vue2 OptionAPI.md",
+                "file": "MVC架構.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📚 待研究/未寫 Vue2 OptionAPI.md"
+                "file": "MVC架構.md"
               }
             }
           },
@@ -165,17 +189,17 @@
       "workspaces:管理工作區配置": false
     }
   },
-  "active": "fd51e79b2d8c9133",
+  "active": "3db41320b615eebd",
   "lastOpenFiles": [
+    "軟體架構MOC.md",
+    "develop/- node.js MOC.md",
+    "MVC架構.md",
+    "📚 待研究/未寫 Vue2 OptionAPI.md",
     "develop/-Vue2 moc.md",
     "develop/-Vue moc.md",
     "develop/React - 受控元件與非受控元件差異.md",
     "develop/JS - closure.md",
     "develop/JS - 陳述式(statement)與表達式(expression).md",
-    "develop/Web 瀏覽器從輸入到渲染發生什麼事？.md",
-    "develop/JS - eventloop.md",
-    "封包.md",
-    "三次握手連線.md",
-    "develop/-Javascript moc.md"
+    "develop/Web 瀏覽器從輸入到渲染發生什麼事？.md"
   ]
 }
