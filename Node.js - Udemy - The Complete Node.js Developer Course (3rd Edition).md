@@ -37,8 +37,10 @@ browser : ` window,` `document`
 node :` global`, `process`
 
 ##### 為什麼要使用node.js
-1. node.js採用non-blocking I/O
-   I/O : input, outpt  ex: querying a database to fetch some records for a given user.
-2.
+1. node.js的運行環境在v8
+2. node.js採用non-blocking I/O
+3. node.js有龐大的套件生態圈
+   
+I/O : input, outpt  ex: querying a database to fetch some records for a given user.
 為什麼none-block是重點？因為在等待資料回應時，可以繼續執行其他程式碼並發出請求
 
