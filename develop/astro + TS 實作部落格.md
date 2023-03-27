@@ -7,7 +7,7 @@ Status :: #🌱 <br>
 Note Type :: #📨/📺 <br>
 Source URL :: [Building a Blog with Astro 1, Typescript and TailwindCSS - 2022](https://www.youtube.com/watch?v=LGHWt_EAtb4) <br>
 Author :: [Simon Sorensen](https://www.youtube.com/@simon.sorensen)<br>
-Topics :: [[- 實作練習 MOC]]<br>
+Topics :: [[-實作練習 MOC]]<br>
 Cover ::
 
 # Evergreen Note
