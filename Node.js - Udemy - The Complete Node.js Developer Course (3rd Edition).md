@@ -44,3 +44,7 @@ node :` global`, `process`
 I/O : input, outpt  ex: querying a database to fetch some records for a given user.
 為什麼none-block是重點？因為在等待資料回應時，可以繼續執行其他程式碼並發出請求
 
+####  章節3
+##### 關於npm安裝的node_modules : 
+1. 不應該手動修改裡面的程式碼，因為重新安裝後又會被覆蓋
+2. 安裝內容會依照package.json裡的dependencies安裝
