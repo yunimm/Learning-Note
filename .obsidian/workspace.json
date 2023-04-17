@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "找不到圖片",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +97,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -177,7 +178,7 @@
       "workspaces:管理工作區配置": false
     }
   },
-  "active": "88e9c3cd9b2a9803",
+  "active": "fd51e79b2d8c9133",
   "lastOpenFiles": [
     "develop/-Node.js MOC.md",
     "develop/React - form submit.md",
