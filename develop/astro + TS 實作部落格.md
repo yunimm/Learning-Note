@@ -30,5 +30,5 @@ Answer ::
 - astro壓縮圖片plug-in
 - slug
 - [[安裝@type node]]
-- [[node.js語法：fs.promise.stat]]
+- [[Node.js語法：fs.promise.stat]]
 - import.meta
