@@ -12,8 +12,8 @@ Cover ::
 
 ---
 # Complete List
-
-- [ ] ch1
+影片: 總計 15 小時
+- [x] ch1
 - [ ] ch2
 - [ ] ch3
 - [ ] ch4
