@@ -49,18 +49,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS50 2022 - Lecture 0 - Scratch.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4e6d8efc85250c1d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "CS50 2022 - Lecture 2 - Arrays.md",
                 "mode": "source",
                 "source": false
@@ -68,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -133,8 +121,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -213,13 +200,15 @@
       "workspaces:管理工作區配置": false
     }
   },
-  "active": "4e6d8efc85250c1d",
+  "active": "66f040996619860a",
   "lastOpenFiles": [
+    "截圖 2023-05-28 下午10.27.22.png",
+    "CS50 2022 - Lecture 0 - Scratch.md",
+    "未命名 1.canvas",
+    "CS50 2022 - Lecture 2 - Arrays.md",
     "截圖 2023-03-27 下午11.10.25.png",
     "CS50 2022 - Lecture 1 - C.md",
-    "CS50 2022 - Lecture 0 - Scratch.md",
     "截圖 2023-02-21 上午10.36.37.png",
-    "CS50 2022 - Lecture 2 - Arrays.md",
     "CS50 blog note.md",
     "develop/-CS50 moc.md",
     "develop/-資料處理 moc.md",
