@@ -17,6 +17,8 @@ Answer ::
 
 # Summary 
 1. Arrays
+2. c語言中的型別
+3. 不要寫magic number
 ---
 
 # Note
