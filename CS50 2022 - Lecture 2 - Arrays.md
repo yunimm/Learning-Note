@@ -29,3 +29,5 @@ Answer ::
 
 - string ? 
   `string`的`byte`是動態的，會依照字數不同而做變化，C會將`string`當作陣列儲存在記憶體中，`string`和`array`的差別在於，`string`在最後一個字尾後會加上`\0`, 表示這段記憶體位置是儲存`string`
+
+[CS50 Manual](https://manual.cs50.io/)
