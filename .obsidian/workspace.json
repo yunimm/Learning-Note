@@ -4,22 +4,71 @@
     "type": "split",
     "children": [
       {
-        "id": "2a314f57265201ed",
+        "id": "0671f4d767605a30",
         "type": "tabs",
         "children": [
           {
-            "id": "cda1f29fb424bf76",
+            "id": "e343b18341eb7498",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "develop/-TypeScript MOC.md",
+                "file": "develop/-CS50 moc.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ee4394e6a57f651a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS50 blog note.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4d1443bb173011dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS50 2022 - Lecture 0 - Scratch.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "66f040996619860a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS50 2022 - Lecture 0 - Scratch.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e6d8efc85250c1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS50 2022 - Lecture 2 - Arrays.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -104,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "develop/-TypeScript MOC.md",
+                "file": "CS50 2022 - Lecture 2 - Arrays.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "develop/-TypeScript MOC.md",
+                "file": "CS50 2022 - Lecture 2 - Arrays.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "develop/-TypeScript MOC.md"
+                "file": "CS50 2022 - Lecture 2 - Arrays.md"
               }
             }
           },
@@ -163,12 +212,21 @@
       "workspaces:管理工作區配置": false
     }
   },
-  "active": "cda1f29fb424bf76",
+  "active": "4e6d8efc85250c1d",
   "lastOpenFiles": [
+    "截圖 2023-03-27 下午11.10.25.png",
+    "CS50 2022 - Lecture 1 - C.md",
+    "CS50 2022 - Lecture 0 - Scratch.md",
+    "截圖 2023-02-21 上午10.36.37.png",
+    "CS50 2022 - Lecture 2 - Arrays.md",
+    "CS50 blog note.md",
+    "develop/-CS50 moc.md",
+    "develop/-資料處理 moc.md",
+    "未命名.canvas",
+    "develop/-TypeScript MOC.md",
     "TypeScript - Udemy - Understanding TypeScript.md",
     "develop/Node.js - Udemy - The Complete Node.js Developer Course (3rd Edition).md",
     "三次握手連線.md",
-    "develop/-TypeScript MOC.md",
     "develop/Node.js語法：fs.promise.stat.md",
     "develop/-Node.js MOC.md",
     "develop/React - form submit.md",
