@@ -4,69 +4,61 @@
     "type": "split",
     "children": [
       {
-        "id": "0671f4d767605a30",
+        "id": "6dd24f5bd7381f19",
         "type": "tabs",
         "children": [
           {
-            "id": "e343b18341eb7498",
+            "id": "859a9acfb85b43ce",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "develop/-TypeScript MOC.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "c08104f8bec13729",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "develop/-CS50 moc.md",
+                "file": "develop/TypeScript - Udemy - Understanding TypeScript.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ee4394e6a57f651a",
+            "id": "8a8706d32ccf10c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS50 blog note.md",
+                "file": "TypeScript - TypeScript Tutorial - The net ninja.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4d1443bb173011dc",
+            "id": "716edf15f38be18b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS50 2022 - Lecture 0 - Scratch.md",
+                "file": "TypeScript - Introduce & setup.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "66f040996619860a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS50 2022 - Lecture 2 - Arrays.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bd20f79f5b5d6e58",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.5"
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -102,14 +94,6 @@
                 "extraContext": false,
                 "sortOrder": "byModifiedTime"
               }
-            }
-          },
-          {
-            "id": "35e7cf0bfd9e2137",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
             }
           },
           {
@@ -159,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS50 2022 - Lecture 2 - Arrays.md",
+                "file": "TypeScript - Introduce & setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS50 2022 - Lecture 2 - Arrays.md",
+                "file": "TypeScript - Introduce & setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -188,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS50 2022 - Lecture 2 - Arrays.md"
+                "file": "TypeScript - Introduce & setup.md"
               }
             }
           },
@@ -218,23 +202,32 @@
       "workspaces:管理工作區配置": false
     }
   },
-  "active": "bd20f79f5b5d6e58",
+  "active": "716edf15f38be18b",
   "lastOpenFiles": [
-    "截圖 2023-05-28 下午10.27.22.png",
-    "CS50 2022 - Lecture 0 - Scratch.md",
-    "未命名 1.canvas",
-    "CS50 2022 - Lecture 2 - Arrays.md",
-    "截圖 2023-03-27 下午11.10.25.png",
-    "CS50 2022 - Lecture 1 - C.md",
-    "截圖 2023-02-21 上午10.36.37.png",
-    "CS50 blog note.md",
-    "develop/-CS50 moc.md",
-    "develop/-資料處理 moc.md",
-    "未命名.canvas",
+    "TypeScript - TypeScript Tutorial - The net ninja.md",
+    "TypeScript - Introduce & setup.md",
     "develop/-TypeScript MOC.md",
-    "TypeScript - Udemy - Understanding TypeScript.md",
-    "develop/Node.js - Udemy - The Complete Node.js Developer Course (3rd Edition).md",
+    "develop/TypeScript - Udemy - Understanding TypeScript.md",
+    "develop/-CS50 moc.md",
+    "CS50 blog note.md",
+    "develop/CS50 2022 - Lecture 0 - Scratch.md",
+    "develop/image/MVC_Explained_In_4minutes_Img02.png",
+    "develop/image/MVC_Explained_In_4minutes_Img01.png",
+    "封包.md",
+    "develop/軟體架構MOC.md",
+    "develop/image/前後端分離與SPA_Img01.png",
     "三次握手連線.md",
+    "未命名.canvas",
+    "未命名 1.canvas",
+    "develop/image/截圖 2023-02-21 上午10.36.22.png",
+    "develop/MVC架構.md",
+    "develop/CS50 2022 - Lecture 2 - Arrays.md",
+    "develop/image/截圖 2023-05-28 下午10.27.22.png",
+    "develop/image/截圖 2023-03-27 下午11.10.25.png",
+    "develop/CS50 2022 - Lecture 1 - C.md",
+    "develop/image/截圖 2023-02-21 上午10.36.37.png",
+    "develop/-資料處理 moc.md",
+    "develop/Node.js - Udemy - The Complete Node.js Developer Course (3rd Edition).md",
     "develop/Node.js語法：fs.promise.stat.md",
     "develop/-Node.js MOC.md",
     "develop/React - form submit.md",
@@ -242,8 +235,6 @@
     "develop/React - 分頁元件切換＠＠.md",
     "develop/-實作練習 MOC.md",
     "develop/-React Moc.md",
-    "📚 待研究/未寫 Vue2 OptionAPI.md",
-    "MVC架構.md",
-    "軟體架構MOC.md"
+    "📚 待研究/未寫 Vue2 OptionAPI.md"
   ]
 }
