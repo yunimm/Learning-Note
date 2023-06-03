@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TypeScript - Introduce & setup.md",
+                "file": "develop/-Async moc.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TypeScript - Introduce & setup.md",
+                "file": "develop/-Async moc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TypeScript - Introduce & setup.md",
+                "file": "develop/-Async moc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TypeScript - Introduce & setup.md"
+                "file": "develop/-Async moc.md"
               }
             }
           },
@@ -194,10 +194,19 @@
   },
   "active": "c35a3fa2666dcb4b",
   "lastOpenFiles": [
-    "TypeScript - TypeScript Tutorial - The net ninja.md",
+    "develop/-實作練習 MOC.md",
+    "develop/-Composition API.md",
+    "develop/-Fetch API MOC.md",
+    "develop/-Node.js MOC.md",
+    "develop/-Javascript moc.md",
     "develop/-TypeScript MOC.md",
-    "TypeScript - Type Basics.md",
+    "develop/Hacker Rank - The Restructured Array.md",
+    "develop/-web運作原理 moc.md",
+    "develop/-Hacker Rank MOC.md",
+    "develop/-Axios MOC.md",
     "TypeScript - Introduce & setup.md",
+    "TypeScript - Type Basics.md",
+    "TypeScript - TypeScript Tutorial - The net ninja.md",
     "TypeScript - Compiling TypeScript.md",
     "develop/TypeScript - Udemy - Understanding TypeScript.md",
     "develop/-CS50 moc.md",
@@ -219,14 +228,6 @@
     "develop/CS50 2022 - Lecture 1 - C.md",
     "develop/image/截圖 2023-02-21 上午10.36.37.png",
     "develop/-資料處理 moc.md",
-    "develop/Node.js - Udemy - The Complete Node.js Developer Course (3rd Edition).md",
-    "develop/Node.js語法：fs.promise.stat.md",
-    "develop/-Node.js MOC.md",
-    "develop/React - form submit.md",
-    "-Node.js moc.md",
-    "develop/React - 分頁元件切換＠＠.md",
-    "develop/-實作練習 MOC.md",
-    "develop/-React Moc.md",
-    "📚 待研究/未寫 Vue2 OptionAPI.md"
+    "develop/Node.js - Udemy - The Complete Node.js Developer Course (3rd Edition).md"
   ]
 }
