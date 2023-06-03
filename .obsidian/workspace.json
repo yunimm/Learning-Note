@@ -22,31 +22,21 @@
             }
           },
           {
-            "id": "c08104f8bec13729",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "develop/TypeScript - Udemy - Understanding TypeScript.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "8a8706d32ccf10c5",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TypeScript - TypeScript Tutorial - The net ninja.md",
+                "file": "TypeScript - Introduce & setup.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
-            "id": "716edf15f38be18b",
+            "id": "8fa29711c6e41a53",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -58,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -202,10 +192,11 @@
       "workspaces:管理工作區配置": false
     }
   },
-  "active": "716edf15f38be18b",
+  "active": "8fa29711c6e41a53",
   "lastOpenFiles": [
     "develop/-TypeScript MOC.md",
     "TypeScript - Introduce & setup.md",
+    "TypeScript - Compiling TypeScript.md",
     "TypeScript - TypeScript Tutorial - The net ninja.md",
     "develop/TypeScript - Udemy - Understanding TypeScript.md",
     "develop/-CS50 moc.md",
