@@ -15,12 +15,12 @@ Cover ::
 影片: 總計 150 min 
 - ch1  [[TypeScript - Introduce & setup]]
 - ch2 [[TypeScript - Compiling TypeScript]]
-- [ ] ch3
+- ch3 [[TypeScript - Type Basics]]
 - [ ] ch4
 - [ ] ch5
 - [ ] ch6
 - [ ] ch7
-- [ ] ch8
+- [ ] ch8 
 - [ ] ch9
 - [ ] ch10
 - [ ] ch11
