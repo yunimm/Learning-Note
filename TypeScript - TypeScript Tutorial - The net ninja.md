@@ -13,7 +13,7 @@ Cover ::
 ---
 # Complete List
 影片: 總計 150 min 
-- [ ] ch1 [[TypeScript - Introduce & setup]]
+- ch1  [[TypeScript - Introduce & setup]]
 - [ ] ch2
 - [ ] ch3
 - [ ] ch4

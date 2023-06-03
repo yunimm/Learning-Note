@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TypeScript - Introduce & setup.md",
+                "file": "TypeScript - TypeScript Tutorial - The net ninja.md",
                 "mode": "source",
                 "source": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TypeScript - Introduce & setup.md",
+                "file": "TypeScript - TypeScript Tutorial - The net ninja.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TypeScript - Introduce & setup.md",
+                "file": "TypeScript - TypeScript Tutorial - The net ninja.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TypeScript - Introduce & setup.md"
+                "file": "TypeScript - TypeScript Tutorial - The net ninja.md"
               }
             }
           },
@@ -204,9 +204,9 @@
   },
   "active": "716edf15f38be18b",
   "lastOpenFiles": [
-    "TypeScript - TypeScript Tutorial - The net ninja.md",
-    "TypeScript - Introduce & setup.md",
     "develop/-TypeScript MOC.md",
+    "TypeScript - Introduce & setup.md",
+    "TypeScript - TypeScript Tutorial - The net ninja.md",
     "develop/TypeScript - Udemy - Understanding TypeScript.md",
     "develop/-CS50 moc.md",
     "CS50 blog note.md",
