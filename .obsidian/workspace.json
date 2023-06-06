@@ -41,14 +41,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "develop/-Async moc.md",
+                "file": "develop/TypeScript - Udemy - Understanding TypeScript.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#include",
+                "query": "typescript",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,7 +113,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -133,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "develop/-Async moc.md",
+                "file": "TypeScript - Type Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "develop/-Async moc.md",
+                "file": "TypeScript - Type Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "develop/-Async moc.md"
+                "file": "TypeScript - Type Basics.md"
               }
             }
           },
@@ -192,23 +193,24 @@
       "workspaces:管理工作區配置": false
     }
   },
-  "active": "c35a3fa2666dcb4b",
+  "active": "8fa29711c6e41a53",
   "lastOpenFiles": [
+    "develop/TypeScript - Udemy - Understanding TypeScript.md",
+    "TypeScript - Type Basics.md",
+    "TypeScript - Introduce & setup.md",
+    "develop/-TypeScript MOC.md",
+    "TypeScript - TypeScript Tutorial - The net ninja.md",
+    "develop/-Async moc.md",
     "develop/-實作練習 MOC.md",
     "develop/-Composition API.md",
     "develop/-Fetch API MOC.md",
     "develop/-Node.js MOC.md",
     "develop/-Javascript moc.md",
-    "develop/-TypeScript MOC.md",
     "develop/Hacker Rank - The Restructured Array.md",
     "develop/-web運作原理 moc.md",
     "develop/-Hacker Rank MOC.md",
     "develop/-Axios MOC.md",
-    "TypeScript - Introduce & setup.md",
-    "TypeScript - Type Basics.md",
-    "TypeScript - TypeScript Tutorial - The net ninja.md",
     "TypeScript - Compiling TypeScript.md",
-    "develop/TypeScript - Udemy - Understanding TypeScript.md",
     "develop/-CS50 moc.md",
     "CS50 blog note.md",
     "develop/CS50 2022 - Lecture 0 - Scratch.md",
@@ -227,7 +229,6 @@
     "develop/image/截圖 2023-03-27 下午11.10.25.png",
     "develop/CS50 2022 - Lecture 1 - C.md",
     "develop/image/截圖 2023-02-21 上午10.36.37.png",
-    "develop/-資料處理 moc.md",
-    "develop/Node.js - Udemy - The Complete Node.js Developer Course (3rd Edition).md"
+    "develop/-資料處理 moc.md"
   ]
 }

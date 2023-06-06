@@ -49,3 +49,8 @@ Answer ::
 ---
 
 # Note
+補充資料：
+關於config設定
+[從 Open Source 專案學習 React 開發 － 以 lodestar-app 為例](https://ithelp.ithome.com.tw/articles/10293467)
+Isolated Modules
+No Fallthrough Cases In Switch
