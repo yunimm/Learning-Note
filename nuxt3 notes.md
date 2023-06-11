@@ -47,8 +47,14 @@ pages/
 ```
 ##### navigation
 使用 `<NuxtLink to="{route}">` 取代 `a`  
-```
-
+```vue
+<template>
+	<h1>this is index</h1>
+	<ul>
+		<li><NuxtLink to="/about">About</NuxtLink></li>
+		<li><NuxtLink to="/aa">aa</NuxtLink></li>
+	</ul>
+</template>
 
 ```
 ##### useRoute
