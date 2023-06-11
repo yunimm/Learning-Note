@@ -32,3 +32,17 @@ devtools: { enabled: true },
 
 #### routing
 [官方文件設定說明](https://nuxt.com/docs/getting-started/routing)
+在nuxt建立路由不同於vue，是用文件夾的方式設定，文件夾的關聯性相當於路由的關聯，例如要建立巢狀路由就是在資料夾內再開一個資料夾
+
+```
+
+pages/
+--| about.vue
+--| index.vue
+--| posts/
+----| [id].vue
+
+```
+>新增 `pages` 資料夾 `index` 相當於首頁`:/`， 若沒有建立 `index.vue` ，訪問首頁或者返回上一頁是會出現404錯誤
+>路由資料夾更新時，應該重啟伺服器
+
