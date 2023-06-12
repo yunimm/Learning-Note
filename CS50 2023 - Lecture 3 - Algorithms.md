@@ -16,7 +16,9 @@ Answer ::
 ---
 
 # Summary 
-1. linear search
+1. Linear Search
+2. Binary Search
+3. Running Time
 ---
 
 # Note
@@ -76,3 +78,24 @@ else if (50 > doors[middle])
 
 middle  = 陣列長度 / 2 四捨五入
 ```
+
+#### Running Time
+使用更貼近程式員或是計算機科學家的方式形容每個演算法之間的好與不好。
+計算時間由慢到快依序(上限，最糟的情況)：
+- O(n²)
+- O(n log n)
+- O(n) - Linear Search
+- O(log n) - Binary Search
+- O(1)
+計算時間由慢到快依序(下限，最好的情況)：
+- Ω(n²)
+- Ω(n log n)
+- Ω(n) 
+- Ω(log n)
+- Ω(1) - Linear Search、 Binary Search
+Θ(theta)，上下限的重合處
+- Θ(n²)
+- Θ(n log n)
+- Θ(n) 
+- Θ(log n)
+- Θ(1)
