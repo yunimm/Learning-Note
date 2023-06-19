@@ -16,9 +16,9 @@ Cover ::
 - ch1  [[TypeScript - Introduce & setup]]
 - ch2 [[TypeScript - Compiling TypeScript]]
 - ch3 [[TypeScript - Type Basics]]
-- [ ] ch4
-- [ ] ch5
-- [ ] ch6
+- ch4[[TypeScript - Objects & Arrays]]
+- ch5 [[TypeScript - Explicit Types]]
+- ch6 [[TypeScript - any]]
 - [ ] ch7
 - [ ] ch8 
 - [ ] ch9
