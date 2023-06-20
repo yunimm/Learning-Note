@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "develop/TypeScript - TypeScript Tutorial - The net ninja.md",
+                "file": "develop/TypeScript - Objects & Arrays.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "develop/TypeScript - TypeScript Tutorial - The net ninja.md",
+                "file": "develop/TypeScript - Objects & Arrays.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "develop/TypeScript - TypeScript Tutorial - The net ninja.md",
+                "file": "develop/TypeScript - Objects & Arrays.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "develop/TypeScript - TypeScript Tutorial - The net ninja.md"
+                "file": "develop/TypeScript - Objects & Arrays.md"
               }
             }
           },
@@ -190,8 +190,8 @@
   },
   "active": "087f3ed6ecb2b5eb",
   "lastOpenFiles": [
-    "TypeScript - Explicit Types.md",
     "develop/TypeScript - TypeScript Tutorial - The net ninja.md",
+    "TypeScript - Explicit Types.md",
     "develop/-TypeScript MOC.md",
     "develop/TypeScript - Objects & Arrays.md",
     "CS50 2023 - Lecture 3 - Algorithms.md",
