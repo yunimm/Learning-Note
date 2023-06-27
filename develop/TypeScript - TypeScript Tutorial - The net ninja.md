@@ -19,21 +19,21 @@ Cover ::
 - ch4[[TypeScript - Objects & Arrays]]
 - ch5 [[TypeScript - Explicit Types]]
 - ch6 [[TypeScript - any]]
-- [ ] ch7
-- [ ] ch8 
-- [ ] ch9
-- [ ] ch10
-- [ ] ch11
-- [ ] ch12
-- [ ] ch13
-- [ ] ch14
-- [ ] ch15
-- [ ] ch16
-- [ ]  ch17
-- [ ]  ch18
-- [ ]  ch19
-- [ ]  ch20
-- [ ]  ch21
+- [ ] ch7 [[TypeScript - Better Workflow & tsconfig]]
+- [ ] ch8 [[TypeScript - Function Basics ]]
+- [ ] ch9 [[TypeScript - Type Aliases]]
+- [ ] ch10 [[TypeScript - Function Signatures]]
+- [ ] ch11 [[TypeScript - The DOM & Type Casting]]
+- [ ] ch12 [[TypeScript - Classes]]
+- [ ] ch13 [[TypeScript - Public, Private & Readonly]]
+- [ ] ch14 [[TypeScript - Modules]]
+- [ ] ch15 [[TypeScript - Interfaces]]
+- [ ] ch16 [[TypeScript - Interfaces with Classes]] 
+- [ ]  ch17 [[TypeScript - Rendering and HTML Template]] 
+- [ ]  ch18 [[TypeScript - Generics]] 
+- [ ]  ch19 [[TypeScript - Enums]]
+- [ ]  ch20 [[TypeScript - Tuples]]
+- [ ]  ch21 [[TypeScript - WrapUp]]
 
 ---
 # Evergreen Note

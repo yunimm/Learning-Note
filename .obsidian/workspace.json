@@ -8,24 +8,60 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5caab7cefabb14b3",
+            "id": "a9ee9ac0121f3661",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "develop/-CS50 moc.md",
+                "file": "develop/TypeScript - TypeScript Tutorial - The net ninja.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c67303c185b48b93",
+            "id": "57633da4c1dac164",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "develop/CS50 2023 - Lecture 2 - Arrays.md",
+                "file": "TypeScript - Modules.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4a4ba666d89dc22b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TypeScript - WrapUp.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fbc3f14863b138ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TypeScript - Tuples.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7ae78b303558d395",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TypeScript - Type Aliases.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,17 +70,32 @@
           {
             "id": "087f3ed6ecb2b5eb",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "develop/TypeScript - Objects & Arrays.md",
+                "file": "TypeScript - Better Workflow & tsconfig.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "9e4a12055b025c3d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TypeScript - Function Basics.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -129,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "develop/TypeScript - Objects & Arrays.md",
+                "file": "develop/TypeScript - TypeScript Tutorial - The net ninja.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "develop/TypeScript - Objects & Arrays.md",
+                "file": "develop/TypeScript - TypeScript Tutorial - The net ninja.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -158,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "develop/TypeScript - Objects & Arrays.md"
+                "file": "develop/TypeScript - TypeScript Tutorial - The net ninja.md"
               }
             }
           },
@@ -188,34 +239,34 @@
       "workspaces:管理工作區配置": false
     }
   },
-  "active": "087f3ed6ecb2b5eb",
+  "active": "a9ee9ac0121f3661",
   "lastOpenFiles": [
+    "TypeScript - Modules.md",
     "develop/TypeScript - TypeScript Tutorial - The net ninja.md",
-    "TypeScript - Explicit Types.md",
+    "TypeScript - WrapUp.md",
+    "TypeScript - Rendering and HTML Template.md",
+    "TypeScript - Tuples.md",
+    "TypeScript - Enums.md",
+    "TypeScript - Generics.md",
+    "TypeScript - Interfaces with Classes.md",
+    "TypeScript - Interfaces.md",
+    "TypeScript - Public, Private & Readonly.md",
+    "TypeScript - Classes.md",
+    "TypeScript - The DOM & Type Casting.md",
+    "TypeScript - Function Signatures.md",
+    "TypeScript - Type Aliases.md",
+    "TypeScript - Better Workflow & tsconfig.md",
+    "TypeScript - Function Basics.md",
     "develop/-TypeScript MOC.md",
-    "develop/TypeScript - Objects & Arrays.md",
-    "CS50 2023 - Lecture 3 - Algorithms.md",
-    "develop/CS50 2023 - Lecture 2 - Arrays.md",
     "develop/-CS50 moc.md",
+    "develop/CS50 2023 - Lecture 2 - Arrays.md",
+    "develop/TypeScript - Type Basics.md",
+    "develop/TypeScript - Objects & Arrays.md",
+    "TypeScript - Explicit Types.md",
+    "CS50 2023 - Lecture 3 - Algorithms.md",
     "develop/CS50 2023 - Lecture 0 - Scratch.md",
     "develop/CS50 2023 - Lecture 1 - C.md",
     "CS50 2023 - Lecture 2 - Arrays.md",
-    "CS50 2023 - Lecture 1 - C.md",
-    "CS50 blog note.md",
-    "develop/TypeScript - Compiling TypeScript.md",
-    "develop/-nuxt3 moc.md",
-    "nuxt3 notes.md",
-    "develop/-Node.js MOC.md",
-    "未命名.md",
-    "develop/TypeScript - Udemy - Understanding TypeScript.md",
-    "develop/TypeScript - Introduce & setup.md",
-    "develop/TypeScript - Type Basics.md",
-    "develop/-Async moc.md",
-    "develop/-實作練習 MOC.md",
-    "develop/-Composition API.md",
-    "develop/-Fetch API MOC.md",
-    "develop/-Javascript moc.md",
-    "develop/Hacker Rank - The Restructured Array.md",
     "develop/image/MVC_Explained_In_4minutes_Img02.png",
     "develop/image/MVC_Explained_In_4minutes_Img01.png",
     "develop/image/前後端分離與SPA_Img01.png",
