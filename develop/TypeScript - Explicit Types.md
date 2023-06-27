@@ -3,7 +3,7 @@ date : 2023-06-0315:27
 aliases : []
 ---
 Status :: #🌱 <br>
-Note Type :: #📨/💿 <br>
+Note Type :: #📨/📺 <br>
 Source URL :: [TypeScript - Explicit Types](https://youtu.be/__92ek8Xh4o)<br>
 Author :: [[@The Net Ninja]]<br>
 Topics :: [[-TypeScript MOC]]  <br>
