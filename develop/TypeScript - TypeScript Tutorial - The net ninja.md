@@ -22,7 +22,7 @@ Cover ::
 - [ ] ch7 [[TypeScript - Better Workflow & tsconfig]]
 - ch8 [[TypeScript - Function Basics ]]
 - ch9 [[TypeScript - Type Aliases]]
-- [ ] ch10 [[TypeScript - Function Signatures]]
+- ch10 [[TypeScript - Function Signatures]] （不確定）
 - [ ] ch11 [[TypeScript - The DOM & Type Casting]]
 - [ ] ch12 [[TypeScript - Classes]]
 - [ ] ch13 [[TypeScript - Public, Private & Readonly]]
