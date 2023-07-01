@@ -49,6 +49,27 @@ return 0;
 
 }
 
+let logDetails: (obj: { name: string, age: number }) => void;
+
+type person = { name: string, age: number };
+
+logDetails = (ninja: person) => {
+  console.log(`${ninja.name},${ninja.age}`);
+};
 
 
+```
+
+留言區其他寫法：
+```ts
+type Calc = (a: number, b: number, c: string) => number;
+
+
+let calcFunction: Calc = (a, b, c) =>{
+
+console.log(c);
+
+return a + b;
+
+}
 ```
