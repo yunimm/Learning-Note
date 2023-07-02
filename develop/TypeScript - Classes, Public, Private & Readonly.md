@@ -24,7 +24,8 @@ Answer ::
 ---
 
 # Note
-Class 就像是藍圖的概念，預先定義了相關的屬性和方法構成物件，後續可以基於Classt創建一個或是多個instance或是繼承該Class衍生出新的子類，物件導向中的繼承：（Inheritance）或是（Polymorphism）
+#### 什麼是class ?
+class 就像是藍圖的概念，預先定義了相關的屬性和方法構成物件，後續可以基於Classt創建一個或是多個instance或是繼承該Class衍生出新的子類，物件導向中的繼承：（Inheritance）或是（Polymorphism）
 - 繼承：子類（或稱衍生類）繼承了父類（或稱基礎類）的所有屬性和方法，並可以在此基礎上新增或修改屬性和方法。
 - 多態：衍生類可以重寫或擴展父類的方法，這樣，當我們對父類和子類的對象調用相同的方法時，它們可以表現出不同的行為。
 以下為 TS 中的範例：
@@ -78,7 +79,9 @@ invoices.push(invOne);
 
 ```
 
-class 的屬性或方法前沒有加任何存取修飾符（如 `public`、`private` 或 `protected`），則默認為 `public`，意思是在我們建立 instance 後，可以對內部的屬性和方法進行修改，但**不可以對 type 進行修改**例如：
+#### class 存取修飾符（Access Modifiers）
+##### public
+class 的屬性或方法前沒有加任何Access Modifiers（如 `public`、`private` 或 `protected`），則默認為 `public`，意思是在我們建立 instance 後，可以對內部的屬性和方法進行修改，但**不可以對 type 進行修改**例如：
 ```ts
 ..... 延續上面定義的Invoice
 
@@ -100,6 +103,118 @@ return `${this.client} : ${this.details} : ${this.amount}`;
 
 }
 
-// 修改type
+// 修改type，塞入原本沒定義的型別
+invOne.client = 1111; // ❌ Type 'number' is not assignable to type 'string'.
 
+```
+##### private
+當我們在屬性上加上了`private`，該屬性只能在 class 內訪問，class 外不能夠直接訪問和修改
+```ts
+class Invoice {
+
+client: string;
+
+details: string;
+
+amount: number;
+
+  
+
+constructor(client: string, details: string, amount: number) {
+
+this.client = client;
+
+this.details = details;
+
+this.amount = amount;
+
+}
+
+  
+
+format() {
+
+return `${this.client} / ${this.details} / ${this.amount}`;
+
+}
+
+}
+const invOne = new invoice('nick', 'iphone', 500);
+
+console.log(invOne.client); // ❌ Property 'client' is private and only accessible within class 'Invoice'.
+invOne.client = 'aaa'; // ❌ Property 'client' is private and only accessible
+```
+**什麼情況需要設置 `private` ？**
+在物件導向程式設計中，`private` 關鍵字是用來封裝類別內部的狀態和實作細節，以下列舉幾種可能需要設定 `private` 的情況：
+1. **保護敏感資訊**：如果類別包含了一些敏感或者重要的資訊，例如用戶密碼，資料庫連線等，這些資訊可能不應該在類別的外部被直接訪問或修改，此時可以將這些屬性設為 `private`。
+    
+2. **維護物件內部狀態的一致性**：有些情況下，你可能希望一個類別的內部狀態需要維護某種一致性或者符合某種規則。例如，你可能有一個 `BankAccount` 類別，該類別有一個 `balance` 屬性表示帳戶餘額，你可能不希望餘額可以被隨意修改，而是通過 `deposit` 和 `withdraw` 方法來控制。此時可以將 `balance` 屬性設為 `private`，並提供公開的方法來改變它。
+    
+3. **隱藏實作細節**：有些類別的內部實作可能相當複雜，包含了大量只有在類別內部使用的輔助方法和屬性。這些內部實作細節對於使用該類別的程式設計師來說可能是無關緊要的，甚至可能會引起混淆。為了使類別的接口（API）更加清晰和易於使用，可以將這些內部使用的方法和屬性設為 `private`。
+    
+總的來說，`private` 的使用可以幫助我們設計出更加穩健、安全和易於使用的類別。
+
+##### readonly
+當我們在屬性上加上了`readonly`，該屬性只能在類別的構造器中初始化，一旦初始化後就不能再修改（immutable objects）。
+```ts
+class invoice {
+
+readonly client: string;
+
+details: string;
+
+amount: number;
+
+  
+
+constructor(client: string, details: string, amount: number) {
+
+this.client = client;
+
+this.details = details;
+
+this.amount = amount;
+
+}
+
+  
+
+format() {
+this.client = 'apple'; // ❌ Cannot assign to 'client' because it is a read-only
+return `${this.client} / ${this.details} / ${this.amount}`;
+
+}
+
+}
+
+const invOne = new invoice('nick', 'iphone', 500);
+invOne.client = 'aaa'; // ❌ Cannot assign to 'client' because it is a read-only property.
+```
+當我們有定義Access Modifiers時可以直接將Access Modifiers寫在con這麼簡寫 :
+```ts
+class invoice {
+//readonly client: string;
+
+//public details: string;
+
+//public amount: number;
+
+constructor(
+
+readonly client: string,
+
+public details: string,
+
+public amount: number) {
+
+}
+
+  
+format() {
+
+return `${this.client} / ${this.details} / ${this.amount}`;
+
+}
+
+}
 ```
