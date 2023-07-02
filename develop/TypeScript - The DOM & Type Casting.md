@@ -66,7 +66,17 @@ const form = document.querySelector('.new-item-form');
 console.log(form);
 
 ```
-  此時會發現form自動推論的型別並不是HTMLFORMELEMENT
+  此時會發現form自動推論的型別並不是HTMLFormElement
 	![[截圖 2023-07-02 下午4.23.09.png]]
-	這時候我們可以用`as`來強制定義當前form的型別ㄕ
+	這時候我們可以用`as `**Type Assertions(型別斷言)** 來強制定義當前form的型別是HTMLFormElement
+	[官方文件Type Assertions(型別斷言)](https://www.typescriptlang.org/zh/docs/handbook/2/everyday-types.html#type-assertions)
+	```
+```ts
+const form = document.querySelector('.new-item-form') as HTMLFormElement;
+
+console.log(form);
+
+console.log(form.children);
+```
+
 
