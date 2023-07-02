@@ -190,7 +190,7 @@ return `${this.client} / ${this.details} / ${this.amount}`;
 const invOne = new invoice('nick', 'iphone', 500);
 invOne.client = 'aaa'; // ❌ Cannot assign to 'client' because it is a read-only property.
 ```
-當我們有定義Access Modifiers時可以直接將Access Modifiers寫在con這麼簡寫 :
+當我們有定義 Access Modifiers 時可以直接將 Access Modifiers 寫在 constructor 內，會自動為你創建並初始化一個對應的 instance 成員：
 ```ts
 class invoice {
 //readonly client: string;
