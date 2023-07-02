@@ -29,7 +29,7 @@ Answer :: DOM的型別判斷
 const arc = document.querySelector('a');
 console.log(arc);
 ```
-- 那這樣呢？如果我們要取得 a 的 href
+- 那這樣呢？如果我們要取得 `<a>`  的 href
 ```ts
 const arc = document.querySelector('a');
 console.log(arc.href); // TS 報錯 'arc' is possibly 'null'.ts(18047)
@@ -59,3 +59,14 @@ console.log(arc.href);
 }
 
 ```
+- 如果我們今天是抓取Dom的class name
+```ts
+const form = document.querySelector('.new-item-form');
+
+console.log(form);
+
+```
+  此時會發現form自動推論的型別並不是HTMLFORMELEMENT
+	![[截圖 2023-07-02 下午4.23.09.png]]
+	這時候我們可以用`as`來強制定義當前form的型別ㄕ
+
