@@ -44,9 +44,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "16767296ea6d41b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "develop/TypeScript - Classes, Public, Private & Readonly.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "17656d93ea31ffcf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "develop/TypeScript - Classes, Public, Private & Readonly.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -115,7 +139,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 338
+    "width": 423
   },
   "right": {
     "id": "767361d9a513804f",
@@ -131,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "develop/TypeScript - The DOM & Type Casting.md",
+                "file": "develop/TypeScript - Classes, Public, Private & Readonly.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "develop/TypeScript - The DOM & Type Casting.md",
+                "file": "develop/TypeScript - Classes, Public, Private & Readonly.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -160,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "develop/TypeScript - The DOM & Type Casting.md"
+                "file": "develop/TypeScript - Classes, Public, Private & Readonly.md"
               }
             }
           },
@@ -190,14 +214,15 @@
       "workspaces:管理工作區配置": false
     }
   },
-  "active": "8a2626a1d9878149",
+  "active": "17656d93ea31ffcf",
   "lastOpenFiles": [
-    "截圖 2023-07-02 下午4.23.09.png",
-    "截圖 2023-07-02 下午4.21.56.png",
-    "截圖 2023-07-01 下午10.47.34.png",
-    "develop/TypeScript - Function Basics.md",
-    "develop/TypeScript - TypeScript Tutorial - The net ninja.md",
     "develop/TypeScript - The DOM & Type Casting.md",
+    "develop/TypeScript - Function Basics.md",
+    "develop/TypeScript - Classes, Public, Private & Readonly.md",
+    "develop/TypeScript - TypeScript Tutorial - The net ninja.md",
+    "develop/截圖 2023-07-02 下午4.23.09.png",
+    "develop/截圖 2023-07-02 下午4.21.56.png",
+    "develop/截圖 2023-07-01 下午10.47.34.png",
     "develop/TypeScript - Function Signatures.md",
     "develop/TypeScript - Type Aliases.md",
     "develop/TypeScript - Explicit Types.md",
