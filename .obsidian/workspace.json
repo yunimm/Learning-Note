@@ -82,7 +82,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "develop/TypeScript - Modules.md",
+                "file": "develop/TypeScript - Interfaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "develop/TypeScript - Modules.md",
+                "file": "develop/TypeScript - Interfaces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "develop/TypeScript - Modules.md"
+                "file": "develop/TypeScript - Interfaces.md"
               }
             }
           },
@@ -226,11 +226,11 @@
       "workspaces:管理工作區配置": false
     }
   },
-  "active": "2aa907dbcc83e5fc",
+  "active": "17656d93ea31ffcf",
   "lastOpenFiles": [
-    "develop/TypeScript - Classes, Public, Private & Readonly.md",
-    "develop/TypeScript - Interfaces.md",
     "develop/TypeScript - Modules.md",
+    "develop/TypeScript - Interfaces.md",
+    "develop/TypeScript - Classes, Public, Private & Readonly.md",
     "develop/TypeScript - The DOM & Type Casting.md",
     "develop/TypeScript - Function Basics.md",
     "develop/TypeScript - TypeScript Tutorial - The net ninja.md",
