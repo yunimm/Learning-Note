@@ -52,7 +52,7 @@
               "type": "markdown",
               "state": {
                 "file": "develop/TypeScript - Classes, Public, Private & Readonly.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -68,9 +68,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2aa907dbcc83e5fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "develop/TypeScript - Modules.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -155,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "develop/TypeScript - Classes, Public, Private & Readonly.md",
+                "file": "develop/TypeScript - Modules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "develop/TypeScript - Classes, Public, Private & Readonly.md",
+                "file": "develop/TypeScript - Modules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -184,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "develop/TypeScript - Classes, Public, Private & Readonly.md"
+                "file": "develop/TypeScript - Modules.md"
               }
             }
           },
@@ -214,17 +226,17 @@
       "workspaces:管理工作區配置": false
     }
   },
-  "active": "16767296ea6d41b6",
+  "active": "2aa907dbcc83e5fc",
   "lastOpenFiles": [
-    "develop/TypeScript - TypeScript Tutorial - The net ninja.md",
-    "develop/TypeScript - Function Basics.md",
-    "develop/TypeScript - The DOM & Type Casting.md",
-    "develop/TypeScript - Interfaces.md",
-    "develop/TypeScript - Interfaces with Classes.md",
     "develop/TypeScript - Classes, Public, Private & Readonly.md",
+    "develop/TypeScript - Interfaces.md",
+    "develop/TypeScript - Modules.md",
+    "develop/TypeScript - The DOM & Type Casting.md",
+    "develop/TypeScript - Function Basics.md",
+    "develop/TypeScript - TypeScript Tutorial - The net ninja.md",
+    "develop/TypeScript - Interfaces with Classes.md",
     "develop/TypeScript - Better Workflow & tsconfig.md",
     "develop/TypeScript - Objects & Arrays.md",
-    "develop/TypeScript - Modules.md",
     "develop/TypeScript - Generics.md",
     "develop/TypeScript - Function Signatures.md",
     "develop/截圖 2023-07-02 下午4.23.09.png",

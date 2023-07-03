@@ -24,7 +24,7 @@ Cover ::
 - ch9 [[TypeScript - Type Aliases]]
 - ch10 [[TypeScript - Function Signatures]] （不確定）
 - ch11 [[TypeScript - The DOM & Type Casting]]
-- [ ] ch12 + 13 [[TypeScript - Classes, Public, Private & Readonly]]
+- ch12 + 13 [[TypeScript - Classes, Public, Private & Readonly]]
 - [ ] ch14 [[TypeScript - Modules]]
 - [ ] ch15 [[TypeScript - Interfaces]]
 - [ ] ch16 [[TypeScript - Interfaces with Classes]] 

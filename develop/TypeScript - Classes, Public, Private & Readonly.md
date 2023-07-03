@@ -151,31 +151,29 @@ invOne.client = 'aaa'; // ❌ Property 'client' is private and only accessible
 ```ts
 class invoice {
 
-readonly client: string;
-
-details: string;
-
-amount: number;
-
-  
-
-constructor(client: string, details: string, amount: number) {
-
-this.client = client;
-
-this.details = details;
-
-this.amount = amount;
-
-}
-
-  
-
-format() {
-this.client = 'apple'; // ❌ Cannot assign to 'client' because it is a read-only
-return `${this.client} / ${this.details} / ${this.amount}`;
-
-}
+	readonly client: string;
+	
+	details: string;
+	
+	amount: number;
+	
+	  
+	
+	constructor(client: string, details: string, amount: number) {
+	
+		this.client = client;
+		
+		this.details = details;
+		
+		this.amount = amount;
+	
+	}
+	
+	format() {
+		this.client = 'apple'; // ❌ Cannot assign to 'client' because it is a read-only
+		return `${this.client} / ${this.details} / ${this.amount}`;
+	
+	}
 
 }
 
@@ -185,28 +183,28 @@ invOne.client = 'aaa'; // ❌ Cannot assign to 'client' because it is a read-onl
 當我們有定義 Access Modifiers 時可以直接將 Access Modifiers 寫在 constructor 內，會自動為你創建並初始化一個對應的 instance 成員：
 ```ts
 class invoice {
-//readonly client: string;
-
-//public details: string;
-
-//public amount: number;
-
-constructor(
-
-readonly client: string,
-
-public details: string,
-
-public amount: number) {
-
-}
-
-  
-format() {
-
-return `${this.client} / ${this.details} / ${this.amount}`;
-
-}
+	//readonly client: string;
+	
+	//public details: string;
+	
+	//public amount: number;
+	
+	constructor(
+		
+		readonly client: string,
+		
+		public details: string,
+		
+		public amount: number) {
+	
+	}
+	
+	  
+	format() {
+	
+		return `${this.client} / ${this.details} / ${this.amount}`;
+	
+	}
 
 }
 ```
