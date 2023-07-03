@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "develop/TypeScript - TypeScript Tutorial - The net ninja.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "pinned": true
@@ -52,7 +52,7 @@
               "type": "markdown",
               "state": {
                 "file": "develop/TypeScript - Classes, Public, Private & Readonly.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -63,14 +63,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "develop/TypeScript - Classes, Public, Private & Readonly.md",
+                "file": "develop/TypeScript - Interfaces.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -214,18 +214,19 @@
       "workspaces:管理工作區配置": false
     }
   },
-  "active": "17656d93ea31ffcf",
+  "active": "16767296ea6d41b6",
   "lastOpenFiles": [
-    "develop/TypeScript - Better Workflow & tsconfig.md",
-    "develop/TypeScript - Classes, Public, Private & Readonly.md",
-    "develop/TypeScript - Objects & Arrays.md",
-    "develop/TypeScript - Modules.md",
-    "develop/TypeScript - Interfaces.md",
-    "develop/TypeScript - Generics.md",
-    "develop/TypeScript - Function Signatures.md",
+    "develop/TypeScript - TypeScript Tutorial - The net ninja.md",
     "develop/TypeScript - Function Basics.md",
     "develop/TypeScript - The DOM & Type Casting.md",
-    "develop/TypeScript - TypeScript Tutorial - The net ninja.md",
+    "develop/TypeScript - Interfaces.md",
+    "develop/TypeScript - Interfaces with Classes.md",
+    "develop/TypeScript - Classes, Public, Private & Readonly.md",
+    "develop/TypeScript - Better Workflow & tsconfig.md",
+    "develop/TypeScript - Objects & Arrays.md",
+    "develop/TypeScript - Modules.md",
+    "develop/TypeScript - Generics.md",
+    "develop/TypeScript - Function Signatures.md",
     "develop/截圖 2023-07-02 下午4.23.09.png",
     "develop/截圖 2023-07-02 下午4.21.56.png",
     "develop/截圖 2023-07-01 下午10.47.34.png",
@@ -239,7 +240,6 @@
     "develop/TypeScript - Tuples.md",
     "develop/TypeScript - WrapUp.md",
     "develop/TypeScript - Rendering and HTML Template.md",
-    "develop/TypeScript - Interfaces with Classes.md",
     "develop/TypeScript - Public, Private & Readonly.md",
     "develop/-CS50 moc.md",
     "develop/CS50 2023 - Lecture 2 - Arrays.md",

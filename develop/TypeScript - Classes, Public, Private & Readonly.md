@@ -32,31 +32,28 @@ class 就像是藍圖的概念，預先定義了相關的屬性和方法構成�
 ```ts
 class Invoice {
 
-client: string;
+	client: string;
 
-details: string;
+	details: string;
 
-amount: number;
+	amount: number;
 
-  
 
-constructor(client: string, details: string, amount: number) {
+	constructor(client: string, details: string, amount: number) {
 
-this.client = client;
+		this.client = client;
 
-this.details = details;
+		this.details = details;
 
-this.amount = amount;
+		this.amount = amount;
 
-}
+	}
 
-  
+	format() {
 
-format() {
+	return `${this.client} / ${this.details} / ${this.amount}`;
 
-return `${this.client} / ${this.details} / ${this.amount}`;
-
-}
+	}
 
 }
 
@@ -64,8 +61,7 @@ return `${this.client} / ${this.details} / ${this.amount}`;
 
 const invOne = new invoice('nick', 'iphone', 500);
 
-console.log(invOne);
-//invoice {client: 'nick', details: 'iphone', amount: 500}
+console.log(invOne);//invoice {client: 'nick', details: 'iphone', amount: 500}
 ```
 當我們建立一個class之後，也可以像之前定義字串陣列型別一樣操作它，限制當前陣列只能使用這個 class 的 instance，例如：
 ```ts
@@ -95,11 +91,11 @@ invOne.format = function() { return `${this.client} : ${this.details} : ${this.a
 // 先繼承再修改
 class ModifiedInvoice extends Invoice {
 
-format() {
-
-return `${this.client} : ${this.details} : ${this.amount}`;
-
-}
+	format() {
+	
+	return `${this.client} : ${this.details} : ${this.amount}`;
+	
+	}
 
 }
 
@@ -112,31 +108,27 @@ invOne.client = 1111; // ❌ Type 'number' is not assignable to type 'string'.
 ```ts
 class Invoice {
 
-client: string;
+	client: string;
+	
+	details: string;
+	
+	amount: number;
+	
+	constructor(client: string, details: string, amount: number) {
+	
+		this.client = client;
+		
+		this.details = details;
+		
+		this.amount = amount;
 
-details: string;
+	}
 
-amount: number;
-
-  
-
-constructor(client: string, details: string, amount: number) {
-
-this.client = client;
-
-this.details = details;
-
-this.amount = amount;
-
-}
-
-  
-
-format() {
-
-return `${this.client} / ${this.details} / ${this.amount}`;
-
-}
+	format() {
+	
+	return `${this.client} / ${this.details} / ${this.amount}`;
+	
+	}
 
 }
 const invOne = new invoice('nick', 'iphone', 500);
