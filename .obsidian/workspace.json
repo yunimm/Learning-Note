@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "develop/TypeScript - Classes, Public, Private & Readonly.md",
+                "file": "develop/TypeScript - Interfaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "develop/TypeScript - Classes, Public, Private & Readonly.md",
+                "file": "develop/TypeScript - Interfaces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "develop/TypeScript - Classes, Public, Private & Readonly.md"
+                "file": "develop/TypeScript - Interfaces.md"
               }
             }
           },
@@ -210,14 +210,14 @@
       "workspaces:管理工作區配置": false
     }
   },
-  "active": "92b8495a0bf21521",
+  "active": "7060c50b6ca6e6de",
   "lastOpenFiles": [
-    "develop/TypeScript - TypeScript Tutorial - The net ninja.md",
-    "develop/TypeScript - Classes, Public, Private & Readonly.md",
-    "develop/TypeScript - Interfaces.md",
     "develop/TypeScript - Modules.md",
-    "develop/TypeScript - Function Basics.md",
+    "develop/TypeScript - Classes, Public, Private & Readonly.md",
+    "develop/TypeScript - TypeScript Tutorial - The net ninja.md",
+    "develop/TypeScript - Interfaces.md",
     "develop/TypeScript - The DOM & Type Casting.md",
+    "develop/TypeScript - Function Basics.md",
     "未命名 1.canvas",
     "未命名.canvas",
     "截圖 2023-07-04 上午12.12.03.png",

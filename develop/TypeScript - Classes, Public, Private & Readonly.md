@@ -25,7 +25,7 @@ Answer ::
 
 # Note
 #### 什麼是class ?
-class 就像是藍圖的概念，預先定義了相關的屬性和方法構成物件，後續可以基於Classt創建一個或是多個instance或是繼承該Class衍生出新的子類，物件導向中的繼承：（Inheritance）或是（Polymorphism）
+class 就像是藍圖的概念，預先定義了相關的屬性和方法構成物件，後續可以基於 class 創建一個或是多個instance 或是繼承該 class 衍生出新的子類，物件導向中的繼承：（Inheritance）或是（Polymorphism）
 - 繼承：子類（或稱衍生類）繼承了父類（或稱基礎類）的所有屬性和方法，並可以在此基礎上新增或修改屬性和方法。
 - 多態：衍生類可以重寫或擴展父類的方法，這樣，當我們對父類和子類的對象調用相同的方法時，它們可以表現出不同的行為。
 以下為 TS 中的範例：
@@ -108,7 +108,7 @@ invOne.client = 1111; // ❌ Type 'number' is not assignable to type 'string'.
 ```ts
 class Invoice {
 
-	client: string;
+	private client: string;
 	
 	details: string;
 	
