@@ -104,7 +104,7 @@ invOne.client = 1111; // ❌ Type 'number' is not assignable to type 'string'.
 
 ```
 ##### private
-當我們在屬性上加上了`private`，該屬性只能在 class 內訪問，class 外不能夠直接訪問和修改
+當我們在屬性上加上了`private`，該屬性只能在 class 內訪問，class 外(包含子類別)不能夠直接訪問和修改
 ```ts
 class Invoice {
 
@@ -135,6 +135,10 @@ const invOne = new invoice('nick', 'iphone', 500);
 
 console.log(invOne.client); // ❌ Property 'client' is private and only accessible within class 'Invoice'.
 invOne.client = 'aaa'; // ❌ Property 'client' is private and only accessible
+
+//workaround 
+console.log(invOne["client"]);
+invOne["client"] = "HARU";
 ```
 **什麼情況需要設置 `private` ？**
 在物件導向程式設計中，`private` 關鍵字是用來封裝類別內部的狀態和實作細節，以下列舉幾種可能需要設定 `private` 的情況：
@@ -208,3 +212,29 @@ class invoice {
 
 }
 ```
+
+#### 補充資料
+##### ES10的private fields #
+JavaScript 並不直接支援私有function（private methods）的概念，這和 Java 等其他物件導向程式語言是有所不同的。JavaScript 的函數和方法預設都是公開的，可以在類別的外部被調用。
+JavaScript 直到 ES2019 (即 ES10) 才加入了私有欄位（private fields）的概念，可以用於實現類別的私有方法。在這之前，JavaScript 並沒有內建的方式來限制函數或變數的可見度。然而，開發者可以通過特定的設計模式（例如模組模式或閉包）來實現一種類似私有變數或函數的效果。我們可以在屬性或方法名稱前加上一個 `#` 符號，將它們標記為私有的。私有欄位只能在其所屬的類別中被訪問或修改，不能從類別的實例或子類別中訪問。例如：
+```js
+class MyClass {
+  #privateMethod() {
+    console.log('Hello from private method');
+  }
+
+  callPrivateMethod() {
+    this.#privateMethod();
+  }
+}
+
+const myInstance = new MyClass();
+myInstance.callPrivateMethod(); // Prints: "Hello from private method"
+myInstance.#privateMethod(); // SyntaxError
+
+```
+##### private 和 private fields 差異
+
+#### 參考資料
+- [TS 存取 private workaround方式來源](https://www.tpisoftware.com/tpu/articleDetails/2017)
+- [### [料理佳餚] 拐個彎的 JavaScript 的私有欄位（Private Field）](https://dotblogs.com.tw/supershowwei/2020/10/12/131655)

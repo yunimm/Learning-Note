@@ -26,7 +26,7 @@ Cover ::
 - ch11 [[TypeScript - The DOM & Type Casting]]
 - ch12 + 13 [[TypeScript - Classes, Public, Private & Readonly]]
 - ch14 [[TypeScript - Modules]]
-- [ ] ch15 [[TypeScript - Interfaces]]
+- ch15 [[TypeScript - Interfaces]]
 - [ ] ch16 [[TypeScript - Interfaces with Classes]] 
 - [ ]  ch17 [[TypeScript - Rendering and HTML Template]] 
 - [ ]  ch18 [[TypeScript - Generics]] 
