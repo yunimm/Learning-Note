@@ -63,8 +63,7 @@
               "pinned": true
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -150,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "develop/TypeScript - Interfaces.md",
+                "file": "develop/TypeScript - TypeScript Tutorial - The net ninja.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "develop/TypeScript - Interfaces.md",
+                "file": "develop/TypeScript - TypeScript Tutorial - The net ninja.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -179,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "develop/TypeScript - Interfaces.md"
+                "file": "develop/TypeScript - TypeScript Tutorial - The net ninja.md"
               }
             }
           },
@@ -210,12 +209,12 @@
       "workspaces:管理工作區配置": false
     }
   },
-  "active": "7060c50b6ca6e6de",
+  "active": "4c37bfd724b387cf",
   "lastOpenFiles": [
+    "develop/TypeScript - Interfaces.md",
     "develop/TypeScript - Modules.md",
     "develop/TypeScript - Classes, Public, Private & Readonly.md",
     "develop/TypeScript - TypeScript Tutorial - The net ninja.md",
-    "develop/TypeScript - Interfaces.md",
     "develop/TypeScript - The DOM & Type Casting.md",
     "develop/TypeScript - Function Basics.md",
     "未命名 1.canvas",
