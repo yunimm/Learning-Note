@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "develop/TypeScript - Interfaces.md",
+                "file": "develop/TypeScript - TypeScript Tutorial - The net ninja.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "develop/TypeScript - Interfaces.md",
+                "file": "develop/TypeScript - TypeScript Tutorial - The net ninja.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "develop/TypeScript - Interfaces.md"
+                "file": "develop/TypeScript - TypeScript Tutorial - The net ninja.md"
               }
             }
           },

@@ -115,11 +115,12 @@ const me:IsPerson = {
 1.宣告變數時，一眼就可以知道這個變數儲存的資料結構長怎樣，不用一層一層去追
 let someone:IsPerson;
 
-2.當作 function 的參數型別傳入，IDE會自動推論你要帶入的Key
+2.當作 function 的參數型別傳入，IDE會自動推論你要帶入的Key(如截圖)
 const greetPerson = (person: IsPerson) => {
 	console.log(person.)
 }
 2.1 呼叫 function 時會提醒你不要亂塞參數
-
+greetPerson({name: 'Apple'})
+// ❌ Argument of type '{ name: string; }' is not assignable to parameter of type 'IsPerson'. Type '{ name: string; }' is missing the following properties from type 'IsPerson': age, speak, spend
 ```
 ![[截圖 2023-07-04 上午12.12.03.png]]
