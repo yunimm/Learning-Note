@@ -110,24 +110,23 @@ int main(void)
 
 {
 
-int numbers[] = {20,100,5,200,1,50};
-int n = get_int("Number:");
+	int numbers[] = {20,100,5,200,1,50};
+	int n = get_int("Number:");
 
-for(int i = 0; i < 7; i++)
-
-{
-
-	if(numbers[i] == n)
+	for(int i = 0; i < 7; i++)
 
 	{
 
-		printf("Found\n");
+		if(numbers[i] == n)
 
-		return 0;
+		{
+
+			printf("Found\n");
+			return 0;
+
+		}
 
 	}
-
-}
 
 	printf("Not found\n");
 
@@ -135,3 +134,93 @@ for(int i = 0; i < 7; i++)
 
 }
 ```
+##### 比對字串
+- 使用strcmp函式庫比對字串
+- 可以使用 `echo $?` 查看return 的結果，
+- 
+- 
+- 通常來說，如果該程序成功執行，則 `$?` 會返回0，否則返回非0值。
+```c
+#include <cs50.h>
+#include <stdio.h>
+#include <string.h>
+
+  
+int main(void)
+
+{
+
+	string strings[] = {"battleship", "boot", "cannon", "iron", "thimble", "top hat"};
+	string s = get_string("String:");
+	
+	for(int i = 0; i < 6; i++)
+	
+		{
+		
+				if(strcmp(strings[i], s) == 0)
+		
+			{
+		
+				printf("Found\n");
+				
+				return 0;
+			
+			}
+		
+		}
+	
+	printf("Not found\n");
+	
+	return 1;
+
+
+}
+```
+實作
+#####  實作電話簿查找功能
+- 結合前兩個範例實作看看
+```c
+#include <cs50.h>
+#include <stdio.h>
+#include <string.h>
+
+  
+
+int main(void)
+
+{
+
+	string names[] = {"mike", "amy"};
+	
+	string numbers[] = {"+886-0912345678", "+886-0932112345"};
+	
+	  
+	
+	string name = get_string("Name: ");
+	
+	for(int i = 0; i < 2; i++)
+		
+		{
+		
+			if(strcmp(names[i],name) == 0)
+		
+			{
+		
+				printf("Founs %s\n", numbers[i]);
+				
+				return 0;
+		
+			}
+		
+		}
+		
+	printf("Not found\n");
+	
+	return 1;
+
+}
+```
+上述程式碼有沒有辦法更好？或是說有哪裡需要改進的嗎？
+- 如果今天names增加了，但是電話號碼沒有一起增加，是不是會找不到電話？
+- 迴圈目前是寫死的數字(2)，是不是可以替換成變數？
+- 要怎麼證明我這次比對到的名字就是這組號碼呢？會不會有因為新增號碼或名字後對應排序亂掉的問題呢？
