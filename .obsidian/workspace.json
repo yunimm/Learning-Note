@@ -4,63 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "19f75d7053ea4c60",
+        "id": "94b8569568d489ee",
         "type": "tabs",
         "children": [
           {
-            "id": "4c37bfd724b387cf",
+            "id": "7103abcdd45d04bc",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "develop/TypeScript - TypeScript Tutorial - The net ninja.md",
+                "file": "CS50 2023 - Lecture 3 - Algorithms.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "92b8495a0bf21521",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "develop/TypeScript - Classes, Public, Private & Readonly.md",
-                "mode": "preview",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "844db6023e69742c",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "develop/TypeScript - Modules.md",
-                "mode": "preview",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "7060c50b6ca6e6de",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "develop/TypeScript - Interfaces.md",
-                "mode": "preview",
-                "source": false
-              },
-              "pinned": true
+              }
             }
           }
         ]
@@ -132,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 423,
-    "collapsed": true
+    "width": 423
   },
   "right": {
     "id": "767361d9a513804f",
@@ -149,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "develop/TypeScript - TypeScript Tutorial - The net ninja.md",
+                "file": "CS50 2023 - Lecture 3 - Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "develop/TypeScript - TypeScript Tutorial - The net ninja.md",
+                "file": "CS50 2023 - Lecture 3 - Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -178,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "develop/TypeScript - TypeScript Tutorial - The net ninja.md"
+                "file": "CS50 2023 - Lecture 3 - Algorithms.md"
               }
             }
           },
@@ -209,12 +164,13 @@
       "workspaces:管理工作區配置": false
     }
   },
-  "active": "4c37bfd724b387cf",
+  "active": "7103abcdd45d04bc",
   "lastOpenFiles": [
+    "develop/-CS50 moc.md",
     "develop/TypeScript - Interfaces.md",
     "develop/TypeScript - Modules.md",
-    "develop/TypeScript - Classes, Public, Private & Readonly.md",
     "develop/TypeScript - TypeScript Tutorial - The net ninja.md",
+    "develop/TypeScript - Classes, Public, Private & Readonly.md",
     "develop/TypeScript - The DOM & Type Casting.md",
     "develop/TypeScript - Function Basics.md",
     "未命名 1.canvas",
@@ -241,7 +197,6 @@
     "develop/TypeScript - WrapUp.md",
     "develop/TypeScript - Rendering and HTML Template.md",
     "develop/TypeScript - Public, Private & Readonly.md",
-    "develop/-CS50 moc.md",
     "develop/CS50 2023 - Lecture 2 - Arrays.md",
     "develop/image/MVC_Explained_In_4minutes_Img02.png",
     "develop/image/MVC_Explained_In_4minutes_Img01.png",
