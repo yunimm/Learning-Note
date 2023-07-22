@@ -99,3 +99,39 @@ Omega( Ω )計算時間由慢到快依序(下限，最好的情況)：
 - Θ(n) 
 - Θ(log n)
 - Θ(1)
+
+#### 在 C 實踐線性搜尋
+##### 比對數字
+```c
+#include <cs50.h>
+#include <stdio.h>
+ 
+int main(void)
+
+{
+
+int numbers[] = {20,100,5,200,1,50};
+int n = get_int("Number:");
+
+for(int i = 0; i < 7; i++)
+
+{
+
+	if(numbers[i] == n)
+
+	{
+
+		printf("Found\n");
+
+		return 0;
+
+	}
+
+}
+
+	printf("Not found\n");
+
+	return 1;
+
+}
+```
