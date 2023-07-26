@@ -220,7 +220,70 @@ int main(void)
 
 }
 ```
-上述程式碼有沒有辦法更好？或是說有哪裡需要改進的嗎？
+#### 上述程式碼有沒有辦法更好？或是說有哪裡需要改進的嗎？
 - 如果今天names增加了，但是電話號碼沒有一起增加，是不是會找不到電話？
 - 迴圈目前是寫死的數字(2)，是不是可以替換成變數？
 - 要怎麼證明我這次比對到的名字就是這組號碼呢？會不會有因為新增號碼或名字後對應排序亂掉的問題呢？
+##### 我們可以用c的自定義資料結構解決這個問題（有點類似先用TS的interface先定義出型別）：
+```c
+#include <cs50.h>
+
+#include <stdio.h>
+
+#include <string.h>
+
+  
+
+typedef struct //固定語法
+
+{
+//自訂義預設資料型別，但不能帶入預設值
+
+string name;
+
+string number;
+
+}
+
+person; //自訂上次型別名稱
+
+  
+
+int main(void)
+
+{
+
+  
+
+person people[2]; //宣告陣列長度二的資料，型別是person
+
+people[0].name = "mike";
+people[0].number = "+886-234-6544";
+
+people[1].name = "alex";
+people[1].number = "+886-111-2323";
+
+string name = get_string("Name: ");
+
+for(int i = 0; i < 2; i++)
+
+{
+
+	if(strcmp(people[i].name,name) == 0)
+	
+	{
+	
+		printf("Founs %s\n", people[i].number);
+		
+		return 0;
+	
+	}
+
+}
+
+printf("Not found\n");
+
+return 1;
+
+}
+```

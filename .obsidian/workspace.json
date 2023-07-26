@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "develop/nuxt3 universal-rendering.md",
+                "file": "CS50 2023 - Lecture 3 - Algorithms.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "develop/nuxt3 universal-rendering.md",
+                "file": "CS50 2023 - Lecture 3 - Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "develop/nuxt3 universal-rendering.md",
+                "file": "CS50 2023 - Lecture 3 - Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "develop/nuxt3 universal-rendering.md"
+                "file": "CS50 2023 - Lecture 3 - Algorithms.md"
               }
             }
           },
@@ -166,13 +166,13 @@
   },
   "active": "e066323947cc8bd4",
   "lastOpenFiles": [
+    "develop/-CS50 moc.md",
+    "develop/nuxt3 universal-rendering.md",
     "develop/Pasted image 20230726211052.png",
     "develop/-nuxt3 moc.md",
-    "develop/nuxt3 universal-rendering.md",
     "nuxt3 notes.md",
     "develop/react Hooks.md",
     "CS50 2023 - Lecture 3 - Algorithms.md",
-    "develop/-CS50 moc.md",
     "develop/TypeScript - Interfaces.md",
     "develop/TypeScript - Modules.md",
     "develop/TypeScript - TypeScript Tutorial - The net ninja.md",
@@ -202,7 +202,6 @@
     "develop/image/MVC_Explained_In_4minutes_Img02.png",
     "develop/image/MVC_Explained_In_4minutes_Img01.png",
     "develop/image/前後端分離與SPA_Img01.png",
-    "develop/image/截圖 2023-02-21 上午10.36.22.png",
-    "develop/image/截圖 2023-05-28 下午10.27.22.png"
+    "develop/image/截圖 2023-02-21 上午10.36.22.png"
   ]
 }
