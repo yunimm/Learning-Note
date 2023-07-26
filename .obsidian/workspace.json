@@ -11,8 +11,12 @@
             "id": "e066323947cc8bd4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "develop/nuxt3 universal-rendering.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -100,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "develop/nuxt3 universal-rendering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "develop/nuxt3 universal-rendering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "develop/nuxt3 universal-rendering.md"
+              }
             }
           },
           {
@@ -158,6 +166,11 @@
   },
   "active": "e066323947cc8bd4",
   "lastOpenFiles": [
+    "develop/Pasted image 20230726211052.png",
+    "develop/-nuxt3 moc.md",
+    "develop/nuxt3 universal-rendering.md",
+    "nuxt3 notes.md",
+    "develop/react Hooks.md",
     "CS50 2023 - Lecture 3 - Algorithms.md",
     "develop/-CS50 moc.md",
     "develop/TypeScript - Interfaces.md",
@@ -185,12 +198,7 @@
     "develop/TypeScript - Enums.md",
     "develop/TypeScript - Compiling TypeScript.md",
     "develop/TypeScript - Classes.md",
-    "nuxt3 notes.md",
     "develop/TypeScript - Tuples.md",
-    "develop/TypeScript - WrapUp.md",
-    "develop/TypeScript - Rendering and HTML Template.md",
-    "develop/TypeScript - Public, Private & Readonly.md",
-    "develop/CS50 2023 - Lecture 2 - Arrays.md",
     "develop/image/MVC_Explained_In_4minutes_Img02.png",
     "develop/image/MVC_Explained_In_4minutes_Img01.png",
     "develop/image/前後端分離與SPA_Img01.png",
