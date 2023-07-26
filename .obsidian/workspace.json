@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "94b8569568d489ee",
+        "id": "3af8a093a6f7bac4",
         "type": "tabs",
         "children": [
           {
-            "id": "7103abcdd45d04bc",
+            "id": "e066323947cc8bd4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS50 2023 - Lecture 3 - Algorithms.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -104,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS50 2023 - Lecture 3 - Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +116,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS50 2023 - Lecture 3 - Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CS50 2023 - Lecture 3 - Algorithms.md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,8 +156,9 @@
       "workspaces:管理工作區配置": false
     }
   },
-  "active": "7103abcdd45d04bc",
+  "active": "e066323947cc8bd4",
   "lastOpenFiles": [
+    "CS50 2023 - Lecture 3 - Algorithms.md",
     "develop/-CS50 moc.md",
     "develop/TypeScript - Interfaces.md",
     "develop/TypeScript - Modules.md",
