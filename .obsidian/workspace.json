@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Recursion",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +84,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -164,7 +165,7 @@
       "workspaces:管理工作區配置": false
     }
   },
-  "active": "e066323947cc8bd4",
+  "active": "fd51e79b2d8c9133",
   "lastOpenFiles": [
     "develop/-CS50 moc.md",
     "develop/nuxt3 universal-rendering.md",
