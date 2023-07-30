@@ -19,6 +19,12 @@ Answer ::
 1. Linear Search
 2. Binary Search
 3. Running Time
+4. 比對數字
+5. 比對字串
+6. 實作電話簿查找功能
+7. Sorting
+8. Selection Sort
+9. Bubble Sort
 ---
 
 # Note
@@ -287,3 +293,10 @@ return 1;
 
 }
 ```
+#### Sorting
+#### Selection Sort 選擇排序法
+1. 找出數據結構中的最小值。
+2. 把最小值和數據結構中的第一個元素交換位置。
+3. 在剩下的元素中找出最小值，然後把這個最小值與第二個元素交換位置。
+4. 這個過程一直持續，直到進行到數據結構的最末端。
+#### Bubble Sort
