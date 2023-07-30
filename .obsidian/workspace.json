@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "develop/-CS50 moc.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a9970a590be0b967",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "CS50 2023 - Lecture 3 - Algorithms.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Recursion",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,8 +97,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -165,15 +177,19 @@
       "workspaces:管理工作區配置": false
     }
   },
-  "active": "fd51e79b2d8c9133",
+  "active": "a9970a590be0b967",
   "lastOpenFiles": [
+    "develop/CS50 2023 - Lecture 2 - Arrays.md",
+    "develop/CS50 2023 - Lecture 1 - C.md",
+    "develop/CS50 2023 - Lecture 0 - Scratch.md",
     "develop/-CS50 moc.md",
+    "develop/-Fetch API MOC.md",
+    "CS50 2023 - Lecture 3 - Algorithms.md",
     "develop/nuxt3 universal-rendering.md",
     "develop/Pasted image 20230726211052.png",
     "develop/-nuxt3 moc.md",
     "nuxt3 notes.md",
     "develop/react Hooks.md",
-    "CS50 2023 - Lecture 3 - Algorithms.md",
     "develop/TypeScript - Interfaces.md",
     "develop/TypeScript - Modules.md",
     "develop/TypeScript - TypeScript Tutorial - The net ninja.md",
@@ -197,9 +213,6 @@
     "develop/TypeScript - Explicit Types.md",
     "develop/-TypeScript MOC.md",
     "develop/TypeScript - Enums.md",
-    "develop/TypeScript - Compiling TypeScript.md",
-    "develop/TypeScript - Classes.md",
-    "develop/TypeScript - Tuples.md",
     "develop/image/MVC_Explained_In_4minutes_Img02.png",
     "develop/image/MVC_Explained_In_4minutes_Img01.png",
     "develop/image/前後端分離與SPA_Img01.png",

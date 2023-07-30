@@ -25,11 +25,13 @@ Answer ::
 7. Sorting
 8. Selection Sort
 9. Bubble Sort
+10. Merge Sort
+11. Recursion
 ---
 
 # Note
-假設當前有七個置物箱，每個置物箱裡都有一張鈔票，我們要尋找存放鈔票面額為50的置物箱，該怎麼找？(每個置物箱的鈔票並沒有按照排序存放)
 #### Linear Search
+假設當前有七個置物箱，每個置物箱裡都有一張鈔票，我們要尋找存放鈔票面額為50的置物箱，該怎麼找？(每個置物箱的鈔票並沒有按照排序存放)
 我們使用線性搜尋，依序查看每個置物箱
 錯誤虛擬碼：
 ```
@@ -50,8 +52,8 @@ Return false
 
 ```
 
-假設當前有七個置物箱，每個置物箱裡都有一張鈔票，我們要尋找存放鈔票面額為50的置物箱，該怎麼找？(每個置物箱的鈔票按照排序存放)
 #### Binary Search
+假設當前有七個置物箱，每個置物箱裡都有一張鈔票，我們要尋找存放鈔票面額為50的置物箱，該怎麼找？(每個置物箱的鈔票按照排序存放)
 虛擬碼
 ```
 If no door left 
@@ -306,3 +308,91 @@ return 1;
 3. 針對所有的元素重複以上的步驟，除了最後一個。
 4. 持續每次對越來越少的元素重複上面的步驟，直到沒有任何一對數字需要比較
 。
+##### Merge Sort
+如果陣列長度=
+
+#### Recursion
+它是指一個函數直接或間接地呼叫自身一次或多次的過程。換句話說，函數在執行時會再次呼叫自己，以解決較小或更簡單的子問題。
+使用先前的Binary Search 當範例，程式碼內的`Search left/right half` 就是遞迴的元素，如果< / > 50 就進行搜尋，不斷地把問題切小，直到找到 / 搜尋範圍結束為止
+```js
+If no door left 
+	Return false 
+If 50 is behind middle door
+	Return true
+Else if 50 < middle door
+	Search left half ->
+Else if 50 > middle door
+	Search right half -> 
+```
+##### 使用遞迴修改前幾週的印馬力歐程式碼
+原本使用雙迴圈：
+```c
+#include <cs50.h>
+#include <stdio.h>
+
+void draw(int n);
+int main(void)
+{
+	int height = get_int("height: ");
+	draw(height);
+}
+
+void draw(int n)
+{
+	for(int i = 0; i < n; i++)
+	{
+		for(int j = 0; j < i + 1; j++)
+		{
+			printf("#");
+		}
+		print("\n");
+	}
+}
+```
+使用遞迴實現：
+```c
+#include <cs50.h>
+#include <stdio.h>
+
+void draw(int n);
+int main(void)
+{
+	int height = get_int("height: ");
+	draw(height);
+}
+
+void draw(int n)
+{
+	if(n <= 0)
+	{
+		return;
+	}
+
+	draw(n-1);
+	
+	for(int i = 0; i < n; i++)
+	{
+		printf("#");
+	}
+	print("\n");
+}
+--------------------------------------------------------------------------------------
+
+//遞迴實踐過程：
+//都呼叫完了draw之後，會呈現一層包一層的程式碼，由最裡層一層一層執行到外面，所以最後印出結果會是
+#
+##
+###
+void draw(3) {
+	draw(2) {
+		draw(1) {
+			draw(0) {
+			// 終止遞迴
+			}
+		// 打印一個 '#'
+		}
+	// 打印兩個 '#'
+	}
+// 打印三個 '#'
+}
+```
