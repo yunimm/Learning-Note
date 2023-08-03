@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a9970a590be0b967",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS50 2023 - Lecture 3 - Algorithms.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS50 2023 - Lecture 3 - Algorithms.md",
+                "file": "develop/-CS50 moc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS50 2023 - Lecture 3 - Algorithms.md",
+                "file": "develop/-CS50 moc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS50 2023 - Lecture 3 - Algorithms.md"
+                "file": "develop/-CS50 moc.md"
               }
             }
           },
@@ -177,14 +164,14 @@
       "workspaces:管理工作區配置": false
     }
   },
-  "active": "a9970a590be0b967",
+  "active": "e066323947cc8bd4",
   "lastOpenFiles": [
+    "CS50 2023 - Lecture 3 - Algorithms.md",
     "develop/CS50 2023 - Lecture 2 - Arrays.md",
     "develop/CS50 2023 - Lecture 1 - C.md",
     "develop/CS50 2023 - Lecture 0 - Scratch.md",
     "develop/-CS50 moc.md",
     "develop/-Fetch API MOC.md",
-    "CS50 2023 - Lecture 3 - Algorithms.md",
     "develop/nuxt3 universal-rendering.md",
     "develop/Pasted image 20230726211052.png",
     "develop/-nuxt3 moc.md",
