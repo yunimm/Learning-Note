@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS50 2023 - Lecture 5 - Data Structures.md",
+                "file": "CS50 2023 - Lecture 3 - Algorithms.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "the",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +110,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -130,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS50 2023 - Lecture 5 - Data Structures.md",
+                "file": "CS50 2023 - Lecture 3 - Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS50 2023 - Lecture 5 - Data Structures.md",
+                "file": "CS50 2023 - Lecture 3 - Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -159,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS50 2023 - Lecture 5 - Data Structures.md"
+                "file": "CS50 2023 - Lecture 3 - Algorithms.md"
               }
             }
           },
@@ -192,10 +193,10 @@
   },
   "active": "e066323947cc8bd4",
   "lastOpenFiles": [
+    "CS50 2023 - Lecture 5 - Data Structures.md",
     "CS50 2023 - Lecture 4 - Memory.md",
     "CS50 2023 - Lecture 3 - Algorithms.md",
     "develop/-CS50 moc.md",
-    "CS50 2023 - Lecture 5 - Data Structures.md",
     "未命名 3.canvas",
     "未命名 2.canvas",
     "develop/CS50 2023 - Lecture 2 - Arrays.md",
