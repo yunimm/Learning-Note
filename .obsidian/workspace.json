@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "325f716ab86c2115",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.7"
+              }
+            }
+          },
+          {
             "id": "9109aaa85c791ec8",
             "type": "leaf",
             "pinned": true,
@@ -45,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,7 +202,7 @@
       "workspaces:管理工作區配置": false
     }
   },
-  "active": "e066323947cc8bd4",
+  "active": "325f716ab86c2115",
   "lastOpenFiles": [
     "CS50 2023 - Lecture 5 - Data Structures.md",
     "CS50 2023 - Lecture 4 - Memory.md",
