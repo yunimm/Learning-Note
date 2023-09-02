@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS50 2023 - Lecture 5 - Data Structures.md",
-                "mode": "source",
+                "file": "CS50 2023 - Lecture 3 - Algorithms.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -30,59 +30,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e251c1bdcc68317b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "develop/CS50 2023 - Lecture 1 - C.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "25d93c6207e7418d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "develop/CS50 2023 - Lecture 0 - Scratch.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9109aaa85c791ec8",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS50 2023 - Lecture 4 - Memory.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "8fe00757603fee30",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS50 2023 - Lecture 3 - Algorithms.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -168,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "develop/CS50 2023 - Lecture 1 - C.md",
+                "file": "CS50 2023 - Lecture 3 - Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "develop/CS50 2023 - Lecture 1 - C.md",
+                "file": "CS50 2023 - Lecture 3 - Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -197,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "develop/CS50 2023 - Lecture 1 - C.md"
+                "file": "CS50 2023 - Lecture 3 - Algorithms.md"
               }
             }
           },
@@ -228,14 +177,14 @@
       "workspaces:管理工作區配置": false
     }
   },
-  "active": "e251c1bdcc68317b",
+  "active": "e066323947cc8bd4",
   "lastOpenFiles": [
-    "develop/CS50 2023 - Lecture 0 - Scratch.md",
-    "develop/CS50 2023 - Lecture 1 - C.md",
-    "CS50 2023 - Lecture 5 - Data Structures.md",
     "develop/-CS50 moc.md",
-    "CS50 2023 - Lecture 4 - Memory.md",
+    "CS50 2023 - Lecture 5 - Data Structures.md",
     "CS50 2023 - Lecture 3 - Algorithms.md",
+    "develop/CS50 2023 - Lecture 1 - C.md",
+    "develop/CS50 2023 - Lecture 0 - Scratch.md",
+    "CS50 2023 - Lecture 4 - Memory.md",
     "develop/CS50 2023 - Lecture 2 - Arrays.md",
     "未命名 3.canvas",
     "未命名 2.canvas",
