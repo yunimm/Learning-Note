@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3af8a093a6f7bac4",
+        "id": "6e269a42cec65572",
         "type": "tabs",
         "children": [
           {
-            "id": "e066323947cc8bd4",
+            "id": "c1a6051b77249f21",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS50 2023 - Lecture 3 - Algorithms.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d35cca9df69b9702",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS50 2023 - Lecture 5 - Data Structures.md",
+                "file": "develop/Node.js - Udemy - The Complete Node.js Developer Course (3rd Edition).md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cs50",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,8 +84,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -117,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS50 2023 - Lecture 3 - Algorithms.md",
+                "file": "develop/Node.js - Udemy - The Complete Node.js Developer Course (3rd Edition).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS50 2023 - Lecture 3 - Algorithms.md",
+                "file": "develop/Node.js - Udemy - The Complete Node.js Developer Course (3rd Edition).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS50 2023 - Lecture 3 - Algorithms.md"
+                "file": "develop/Node.js - Udemy - The Complete Node.js Developer Course (3rd Edition).md"
               }
             }
           },
@@ -177,11 +164,12 @@
       "workspaces:管理工作區配置": false
     }
   },
-  "active": "e066323947cc8bd4",
+  "active": "c1a6051b77249f21",
   "lastOpenFiles": [
-    "develop/-CS50 moc.md",
+    "develop/-Node.js MOC.md",
     "CS50 2023 - Lecture 5 - Data Structures.md",
     "CS50 2023 - Lecture 3 - Algorithms.md",
+    "develop/-CS50 moc.md",
     "develop/CS50 2023 - Lecture 1 - C.md",
     "develop/CS50 2023 - Lecture 0 - Scratch.md",
     "CS50 2023 - Lecture 4 - Memory.md",
@@ -214,7 +202,6 @@
     "develop/截圖 2023-07-02 下午4.21.56.png",
     "develop/截圖 2023-07-01 下午10.47.34.png",
     "develop/TypeScript - Type Aliases.md",
-    "develop/TypeScript - Explicit Types.md",
     "develop/image/MVC_Explained_In_4minutes_Img02.png",
     "develop/image/MVC_Explained_In_4minutes_Img01.png",
     "develop/image/前後端分離與SPA_Img01.png",
