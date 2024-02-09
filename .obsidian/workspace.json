@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6e269a42cec65572",
+        "id": "7fb0802d2c1095c4",
         "type": "tabs",
         "children": [
           {
-            "id": "c1a6051b77249f21",
+            "id": "e169aeb841a4e48e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "8e84b0d823188dba",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.16"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -59,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "非同步",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,8 +84,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -176,41 +164,43 @@
       "workspaces:管理工作區配置": false
     }
   },
-  "active": "8e84b0d823188dba",
+  "active": "e169aeb841a4e48e",
   "lastOpenFiles": [
-    "develop/Node.js - Udemy - The Complete Node.js Developer Course (3rd Edition).md",
-    "develop/-Node.js MOC.md",
-    "CS50 2023 - Lecture 5 - Data Structures.md",
-    "CS50 2023 - Lecture 3 - Algorithms.md",
-    "develop/-CS50 moc.md",
-    "develop/CS50 2023 - Lecture 1 - C.md",
-    "develop/CS50 2023 - Lecture 0 - Scratch.md",
-    "CS50 2023 - Lecture 4 - Memory.md",
-    "develop/CS50 2023 - Lecture 2 - Arrays.md",
+    "develop/JS - 箭頭函式.md",
+    "develop/JS - 整合兩筆不同陣列資料.md",
+    "develop/JS - 解構賦值 ( destructuring assignment ).md",
+    "develop/JS - 陳述式(statement)與表達式(expression).md",
+    "develop/JS - 淺拷貝和深拷貝的差異.md",
+    "📝 前端面試題/CSS.md",
+    "📝 前端面試題/JS - this.md",
+    "截圖 2023-07-04 上午12.12.03.png",
+    "封包.md",
+    "未命名 4.canvas",
+    "未命名 5.canvas",
     "未命名 3.canvas",
     "未命名 2.canvas",
-    "develop/-Fetch API MOC.md",
-    "develop/nuxt3 universal-rendering.md",
-    "develop/Pasted image 20230726211052.png",
-    "develop/-nuxt3 moc.md",
-    "nuxt3 notes.md",
-    "develop/react Hooks.md",
-    "develop/TypeScript - Interfaces.md",
-    "develop/TypeScript - Modules.md",
-    "develop/TypeScript - TypeScript Tutorial - The net ninja.md",
-    "develop/TypeScript - Classes, Public, Private & Readonly.md",
-    "develop/TypeScript - The DOM & Type Casting.md",
-    "develop/TypeScript - Function Basics.md",
     "未命名 1.canvas",
     "未命名.canvas",
-    "截圖 2023-07-04 上午12.12.03.png",
-    "截圖 2023-07-04 上午12.10.24.png",
-    "develop/JS - ASI(Automatic Semicolon Insertion)機制.md",
-    "develop/TypeScript - Interfaces with Classes.md",
-    "develop/TypeScript - Better Workflow & tsconfig.md",
-    "develop/TypeScript - Objects & Arrays.md",
+    "develop/前端考古題 curry function.md",
+    "develop/-TypeScript MOC.md",
+    "develop/-Node.js MOC.md",
+    "develop/-Leetcode MOC.md",
+    "develop/-Hacker Rank MOC.md",
+    "develop/-Javascript moc.md",
+    "develop/-Composition API.md",
+    "develop/-Axios MOC.md",
+    "develop/-Async moc.md",
+    "develop/-實作練習 MOC.md",
+    "develop/-前端框架 moc.md",
+    "develop/-Vue moc.md",
+    "develop/-Vue2 moc.md",
+    "develop/-Vue3 moc.md",
+    "develop/Vue2 Mixins.md",
+    "develop/JS - AJAX.md",
+    "develop/TypeScript - Introduce & setup.md",
     "develop/TypeScript - Generics.md",
-    "develop/TypeScript - Function Signatures.md",
+    "develop/Pasted image 20230726211052.png",
+    "截圖 2023-07-04 上午12.10.24.png",
     "develop/截圖 2023-07-02 下午4.23.09.png",
     "develop/截圖 2023-07-02 下午4.21.56.png",
     "develop/截圖 2023-07-01 下午10.47.34.png",
