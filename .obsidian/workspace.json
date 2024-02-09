@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8e84b0d823188dba",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,7 +176,7 @@
       "workspaces:管理工作區配置": false
     }
   },
-  "active": "c1a6051b77249f21",
+  "active": "8e84b0d823188dba",
   "lastOpenFiles": [
     "develop/Node.js - Udemy - The Complete Node.js Developer Course (3rd Edition).md",
     "develop/-Node.js MOC.md",
