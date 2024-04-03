@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2293c2b9ef36c4af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "develop/JS - closure.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "eventloop",
+                "query": "closu",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "develop/JS - eventloop.md",
+                "file": "develop/JS - closure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "develop/JS - eventloop.md",
+                "file": "develop/JS - closure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "develop/JS - eventloop.md"
+                "file": "develop/JS - closure.md"
               }
             }
           },
@@ -165,7 +178,7 @@
       "workspaces:管理工作區配置": false
     }
   },
-  "active": "e169aeb841a4e48e",
+  "active": "2293c2b9ef36c4af",
   "lastOpenFiles": [
     "📚 待研究/複習非同步概念時提及的error handling.md",
     "develop/JS - closure.md",
