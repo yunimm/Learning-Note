@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "develop/JS - closure.md",
+                "file": "develop/JS - hoisting.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "closu",
+                "query": "hoisting",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "develop/JS - closure.md",
+                "file": "develop/JS - hoisting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "develop/JS - closure.md",
+                "file": "develop/JS - hoisting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "develop/JS - closure.md"
+                "file": "develop/JS - hoisting.md"
               }
             }
           },
@@ -180,10 +180,10 @@
   },
   "active": "2293c2b9ef36c4af",
   "lastOpenFiles": [
+    "develop/-Javascript moc.md",
     "develop/JS - closure.md",
     "📚 待研究/複習非同步概念時提及的error handling.md",
     "develop/JS - hoisting.md",
-    "develop/-Javascript moc.md",
     "develop/JS - AJAX.md",
     "develop/JS - 箭頭函式.md",
     "develop/JS - 整合兩筆不同陣列資料.md",
