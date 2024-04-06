@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "develop/JS - hoisting.md",
+                "file": "develop/-Javascript moc.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bec7943365d08c4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "develop/JS - this.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -61,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hoisting",
+                "query": "傳值傳址",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "develop/JS - hoisting.md",
+                "file": "develop/JS - this.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "develop/JS - hoisting.md",
+                "file": "develop/JS - this.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -147,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "develop/JS - hoisting.md"
+                "file": "develop/JS - this.md"
               }
             }
           },
@@ -178,12 +190,12 @@
       "workspaces:管理工作區配置": false
     }
   },
-  "active": "2293c2b9ef36c4af",
+  "active": "fd51e79b2d8c9133",
   "lastOpenFiles": [
     "develop/-Javascript moc.md",
+    "develop/JS - hoisting.md",
     "develop/JS - closure.md",
     "📚 待研究/複習非同步概念時提及的error handling.md",
-    "develop/JS - hoisting.md",
     "develop/JS - AJAX.md",
     "develop/JS - 箭頭函式.md",
     "develop/JS - 整合兩筆不同陣列資料.md",
