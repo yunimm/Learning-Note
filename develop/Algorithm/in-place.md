@@ -7,7 +7,7 @@ Status :: #🌱 <br>
 Note Type :: #📨/📝 <br>
 Source URL :: [In-Place Algorithm](https://www.geeksforgeeks.org/in-place-algorithm/)<br>
 Author :: {作者名稱} <br>
-Topics ::[[演算法]] <br>
+Topics ::<br>
 Cover ::
 
 # Evergreen Note

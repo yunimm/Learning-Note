@@ -9,7 +9,7 @@
 [[JS - eventloop]]
 [[JS - hoisting]]
 [[JS - promise]]
-[[develop/JavaScript/JS - this]]
+[[JS - this]]
 
 ## JS資料處理
 - [[JS - 整合兩筆不同陣列資料]]

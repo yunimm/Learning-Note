@@ -7,7 +7,7 @@ Status :: #🌱 <br>
 Note Type :: #📨/📝 <br>
 Source URL :: [avaScript基本功修練：Day29 - axios基本語法與練習(GET、POST請求)](https://ithelp.ithome.com.tw/articles/10253259) <br>
 Author :: [[@IT邦]] <br>
-Topics :: [[Fetch API MOC]], [[-Axios MOC]] <br>
+Topics :: [[Fetch API MOC]]<br>
 
 # Evergreen Note
 
