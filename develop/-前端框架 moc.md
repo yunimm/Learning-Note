@@ -1,3 +1,0 @@
-
-[[-Vue moc]]
-[[-React Moc]]

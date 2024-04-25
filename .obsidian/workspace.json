@@ -8,53 +8,45 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e169aeb841a4e48e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "develop/JS - eventloop.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2293c2b9ef36c4af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "develop/-Javascript moc.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "bec7943365d08c4a",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "develop/JS - this.md",
+                "file": "MOC/CS50 MOC.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "c02719365593516f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "develop/CS50/CS50 2023 - Lecture 0 - Scratch.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "cf5488c057d4edbf",
+            "id": "fcdcaf4312bbf646",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.12"
+                "file": "develop/使用 axios 介接 API.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -83,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "傳值傳址",
+                "query": "file:react",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -119,8 +111,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -140,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "develop/JS - this.md",
+                "file": "develop/使用 axios 介接 API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "develop/JS - this.md",
+                "file": "develop/使用 axios 介接 API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -169,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "develop/JS - this.md"
+                "file": "develop/使用 axios 介接 API.md"
               }
             }
           },
@@ -181,12 +172,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 398,
-    "collapsed": true
+    "width": 398
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,49 +191,58 @@
       "workspaces:管理工作區配置": false
     }
   },
-  "active": "cf5488c057d4edbf",
+  "active": "fcdcaf4312bbf646",
   "lastOpenFiles": [
-    "develop/-Javascript moc.md",
-    "develop/JS - hoisting.md",
-    "develop/JS - closure.md",
-    "📚 待研究/複習非同步概念時提及的error handling.md",
-    "develop/JS - AJAX.md",
-    "develop/JS - 箭頭函式.md",
-    "develop/JS - 整合兩筆不同陣列資料.md",
-    "develop/JS - 解構賦值 ( destructuring assignment ).md",
-    "develop/JS - 陳述式(statement)與表達式(expression).md",
-    "develop/JS - 淺拷貝和深拷貝的差異.md",
+    "-Axios MOC.md",
+    "develop/使用 axios 介接 API.md",
+    "develop/Nuxt",
+    "MOC/DevPractice MOC.md",
+    "MOC/-前端框架 moc.md",
+    "MOC/DataProcessing MOC.md",
+    "MOC/Nuxt3 MOC.md",
+    "MOC/Node.js MOC.md",
+    "MOC/Vue MOC.md",
+    "MOC/Vue2 MOC.md",
+    "MOC/Vue3 MOC.md",
+    "develop/Node.js語法：fs.promise.stat.md",
+    "develop/qs 轉換 application x-www-form-urlencoded.md",
+    "develop/Node.js - Udemy - The Complete Node.js Developer Course (3rd Edition).md",
+    "develop/MVC架構.md",
+    "develop/LeetCode 1299. Replace Elements with Greatest Element on Right Side.md",
+    "develop/Leetcode - 905. Sort Array By Parity.md",
+    "develop/Hacker Rank - The Restructured Array.md",
+    "develop/Apache 的概念.md",
+    "develop/git setting sync token 3個月效期.md",
+    "develop/axios finally 做什麼用途？.md",
+    "MOC/TypeScript MOC.md",
+    "develop/astro + TS 實作部落格.md",
+    "develop/關於 Vue3 ref reactive 的原理.md",
+    "develop/TypeScript/安裝@type node.md",
     "📝 前端面試題/CSS.md",
     "📝 前端面試題/JS - this.md",
-    "截圖 2023-07-04 上午12.12.03.png",
-    "封包.md",
+    "develop/Web",
+    "develop/image/Pasted image 20230726211052.png",
+    "develop/Pinia",
+    "develop/CS50",
+    "develop/Vue",
+    "develop/image/截圖 2023-07-01 下午10.47.34.png",
+    "develop/JavaScript",
+    "develop/TypeScript",
+    "develop/image/截圖 2023-03-27 下午11.10.25.png",
+    "develop/React",
+    "develop/image/MVC_Explained_In_4minutes_Img02.png",
+    "develop/image/Pasted image 20220531211159.png",
+    "develop/image/Pasted image 20220531211625.png",
+    "develop/image/Pasted image 20230103220347.png",
+    "develop/image/MVC_Explained_In_4minutes_Img01.png",
+    "MOC",
+    "develop/image/截圖 2023-07-04 上午12.12.03.png",
+    "未命名 1.canvas",
+    "未命名.canvas",
     "未命名 4.canvas",
     "未命名 5.canvas",
     "未命名 3.canvas",
     "未命名 2.canvas",
-    "未命名 1.canvas",
-    "未命名.canvas",
-    "develop/前端考古題 curry function.md",
-    "develop/-TypeScript MOC.md",
-    "develop/-Node.js MOC.md",
-    "develop/-Leetcode MOC.md",
-    "develop/-Hacker Rank MOC.md",
-    "develop/-Composition API.md",
-    "develop/-Axios MOC.md",
-    "develop/-Async moc.md",
-    "develop/-實作練習 MOC.md",
-    "develop/-前端框架 moc.md",
-    "develop/-Vue moc.md",
-    "develop/-Vue2 moc.md",
-    "develop/-Vue3 moc.md",
-    "develop/Pasted image 20230726211052.png",
-    "截圖 2023-07-04 上午12.10.24.png",
-    "develop/截圖 2023-07-02 下午4.23.09.png",
-    "develop/截圖 2023-07-02 下午4.21.56.png",
-    "develop/截圖 2023-07-01 下午10.47.34.png",
-    "develop/image/MVC_Explained_In_4minutes_Img02.png",
-    "develop/image/MVC_Explained_In_4minutes_Img01.png",
-    "develop/image/前後端分離與SPA_Img01.png",
-    "develop/image/截圖 2023-02-21 上午10.36.22.png"
+    "截圖 2023-07-04 上午12.10.24.png"
   ]
 }

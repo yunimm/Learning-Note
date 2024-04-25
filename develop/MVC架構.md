@@ -11,7 +11,7 @@ Source URL ::
 [MVC與Model 2的變異與結合](https://www.ithome.com.tw/voice/77330)
 [MVC Explained in 4 Minutes](https://www.youtube.com/watch?v=DUg2SWWK18I)
 Author :: {作者名稱} <br>
-Topics :: [[軟體架構MOC]] <br>
+Topics :: [[Architecture MOC]] <br>
 
 # Evergreen Note
 

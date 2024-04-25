@@ -1,13 +1,13 @@
 ---
-date : 2022-05-2520:36
+date : 2022-10-2010:01
 aliases : []
 ---
 # Metadata
 Status :: #🌱 <br>
 Note Type :: #📨/📝 <br>
-Source URL :: [](https://front-chef.coderbridge.io/2021/02/27/vue2-vue3-reactivity/) <br>
+Source URL :: {文章 URL} <br>
 Author :: {作者名稱} <br>
-Topics :: [[Vue3 MOC]] <br>
+Topics :: [[React MOC]] <br>
 Cover ::
 
 # Evergreen Note
@@ -18,7 +18,7 @@ Answer ::
 
 ---
 
-# Summary 
+# How to use
 
 ---
 

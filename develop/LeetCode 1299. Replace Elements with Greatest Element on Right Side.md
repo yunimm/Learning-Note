@@ -5,7 +5,7 @@ aliases : []
 # Metadata
 Status :: #🌱 <br>
 Note Type :: #📨🧠 <br>
-Topics :: [[-Leetcode MOC]]<br>
+Topics :: [[Leetcode MOC]]<br>
 # Evergreen Note
 
 Question :: LeetCode 1299. Replace Elements with Greatest Element on Right Side

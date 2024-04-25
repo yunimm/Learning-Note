@@ -5,7 +5,7 @@ aliases : []
 # Metadata
 Status :: #🌱 <br>
 Note Type :: #📨🧠 <br><br>
-Topics ::[[ -Leetcode MOC]]<br>
+Topics ::[[Leetcode MOC]]<br>
 Cover ::
 
 # Evergreen Note

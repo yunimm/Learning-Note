@@ -7,7 +7,7 @@ Status :: #🌱 <br>
 Note Type :: #📨/📝 <br>
 Source URL :: [nodejs中的文件系统](https://www.cnblogs.com/flydean/p/14290004.html#fsstat%E6%96%87%E4%BB%B6%E7%8A%B6%E6%80%81%E4%BF%A1%E6%81%AF)<br>
 Author :: {作者名稱} <br>
-Topics :: [[develop/-Node.js MOC]]<br>
+Topics :: [[Node.js MOC]]<br>
 Cover ::
 
 # Evergreen Note

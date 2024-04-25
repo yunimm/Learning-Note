@@ -6,7 +6,7 @@ aliases : []
 Status :: #🌱 <br>
 Note Type :: #📨/🤔 <br>
 Author :: {自己理解到的} <br>
-Topics :: [[-Hacker Rank MOC]]<br>
+Topics :: [[HackerRank MOC]]<br>
 Cover ::
 
 # Evergreen Note

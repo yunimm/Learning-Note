@@ -1,12 +1,12 @@
 ---
-date : 2022-05-3007:40
+date : 2022-07-1823:34
 aliases : []
 ---
 # Metadata
 Status :: #🌱 <br>
 Note Type :: #📨/📝 <br>
-Source URL :: [我知道你懂 hoisting，可是你了解到多深？](https://blog.techbridge.cc/2018/11/10/javascript-hoisting/) <br>
-Author :: [[@huli]] <br>
+Source URL :: {文章 URL} <br>
+Author :: {作者名稱} <br>
 Topics :: [[JavaScript MOC]] <br>
 Cover ::
 
@@ -15,6 +15,10 @@ Cover ::
 Question :: 這篇文章主要在說什麼 ?
 
 Answer ::
+
+---
+
+# How to use
 
 ---
 

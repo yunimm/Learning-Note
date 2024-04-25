@@ -7,7 +7,7 @@ Status :: #🌱 <br>
 Note Type :: #📨/💿 <br>
 Source URL :: {教學 URL} <br>
 Author :: The Complete Node.js Developer Course (3rd Edition) <br>
-Topics :: [[-Node.js moc]]<br>
+Topics :: [[Node.js MOC]]<br>
 Cover ::
 
 # Evergreen Note

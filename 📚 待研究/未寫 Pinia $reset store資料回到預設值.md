@@ -7,7 +7,7 @@ Status :: #🌱 <br>
 Note Type :: #📨/💿 <br>
 Source URL :: [在 [[-Composition API]] 中使用 Pinia (11:05)](https://courses.hexschool.com/courses/javascript-2020/lectures/38745798) <br>
 Author :: [[@六角vue加碼]] <br>
-Topics :: [[-Pinia moc]], [[-Composition API]]<br>
+Topics :: [[Pinia MOC]], [[-Composition API]]<br>
 Cover ::
 
 # Evergreen Note
