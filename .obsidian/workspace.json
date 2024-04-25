@@ -42,9 +42,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cf5488c057d4edbf",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -190,7 +200,7 @@
       "workspaces:管理工作區配置": false
     }
   },
-  "active": "fd51e79b2d8c9133",
+  "active": "cf5488c057d4edbf",
   "lastOpenFiles": [
     "develop/-Javascript moc.md",
     "develop/JS - hoisting.md",
