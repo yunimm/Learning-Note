@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7fb0802d2c1095c4",
+        "id": "54d656bb7e45687c",
         "type": "tabs",
         "children": [
           {
-            "id": "bec7943365d08c4a",
+            "id": "55a33201a5de2457",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOC/CS50 MOC.md",
+                "file": "Develop/Web/前端效能調校.md",
                 "mode": "source",
                 "source": false
               },
@@ -22,31 +22,18 @@
             }
           },
           {
-            "id": "c02719365593516f",
+            "id": "bc9f76812f1bec8a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Develop/CS50/CS50 2023 - Lecture 0 - Scratch.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fcdcaf4312bbf646",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ExamQuestions/CSS Center.md",
+                "file": "Obsidian/Hotkeys.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -131,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MOC/CS50 MOC.md",
+                "file": "Develop/Web/前端效能調校.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MOC/CS50 MOC.md",
+                "file": "Develop/Web/前端效能調校.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -160,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MOC/CS50 MOC.md"
+                "file": "Develop/Web/前端效能調校.md"
               }
             }
           },
@@ -191,11 +178,21 @@
       "workspaces:管理工作區配置": false
     }
   },
-  "active": "941ef3695e2f35cd",
+  "active": "55a33201a5de2457",
   "lastOpenFiles": [
+    "Obsidian/Hotkeys.md",
+    "Develop/Web/前端效能調校.md",
+    "Develop/Web/Apache 的概念.md",
+    "Develop/Web/Web 瀏覽器從輸入到渲染發生什麼事？.md",
+    "Develop/Web/Web 什麼是SEO.md",
+    "Develop/TypeScript/TypeScript - Classes, Public, Private & Readonly.md",
+    "Develop/Architecture/MVC架構.md",
+    "MOC/Web Moc.md",
+    "MOC/CS50 MOC.md",
+    "Develop/CS50/CS50 2023 - Lecture 0 - Scratch.md",
+    "ExamQuestions/CSS Center.md",
     "Obsidian",
     "ExamQuestions/Currying.md",
-    "ExamQuestions/CSS Center.md",
     "ExamQuestions/this.md",
     "ExamQuestions/Hacker Rank - The Restructured Array.md",
     "ExamQuestions/LeetCode - 905. Sort Array By Parity.md",
@@ -203,12 +200,9 @@
     "ExamQuestions",
     "MOC/Algorithm MOC.md",
     "MOC/DevPractice MOC.md",
-    "MOC/CS50 MOC.md",
     "MOC/Architecture MOC.md",
     "Develop/Algorithm/in-place.md",
     "Develop/Algorithm",
-    "MOC/Web Moc.md",
-    "Develop/Web/Apache 的概念.md",
     "Web Server.md",
     "Develop/Nodejs/Node.js - Udemy - The Complete Node.js Developer Course (3rd Edition).md",
     "Develop/Nodejs",
@@ -217,19 +211,12 @@
     "Develop/FetchAPI/使用 axios 介接 API.md",
     "Develop/FetchAPI",
     "Develop/Architecture",
-    "Develop/Architecture/MVC架構.md",
     "-Axios MOC.md",
     "Develop/Nuxt",
-    "MOC/-前端框架 moc.md",
-    "MOC/DataProcessing MOC.md",
-    "MOC/Nuxt3 MOC.md",
-    "MOC/Node.js MOC.md",
-    "MOC/Vue MOC.md",
     "Develop/Web",
     "Develop/image/Pasted image 20230726211052.png",
     "Develop/Pinia",
     "Develop/CS50",
-    "Develop/Vue",
     "Develop/image/截圖 2023-07-01 下午10.47.34.png",
     "Develop/image/截圖 2023-03-27 下午11.10.25.png",
     "Develop/image/MVC_Explained_In_4minutes_Img02.png",
