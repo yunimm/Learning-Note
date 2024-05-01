@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ExamQuestions/CSS Center.md",
+                "file": "MOC/CS50 MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ExamQuestions/CSS Center.md",
+                "file": "MOC/CS50 MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ExamQuestions/CSS Center.md"
+                "file": "MOC/CS50 MOC.md"
               }
             }
           },
