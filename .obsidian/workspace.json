@@ -11,11 +11,28 @@
             "id": "da8c37413f9dea11",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Slack Emoji 驅動 Jira 更新流程.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "905c78a58966f723",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Slack Emoji 驅動 Jira 更新流程 — 完整背景與流程說明.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -84,7 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 423
+    "width": 207.50390243530273
   },
   "right": {
     "id": "767361d9a513804f",
@@ -100,6 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Slack Emoji 驅動 Jira 更新流程 — 完整背景與流程說明.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Slack Emoji 驅動 Jira 更新流程 — 完整背景與流程說明.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Slack Emoji 驅動 Jira 更新流程 — 完整背景與流程說明.md"
+              }
             }
           },
           {
@@ -142,7 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 398
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,8 +177,10 @@
       "workspaces:管理工作區配置": false
     }
   },
-  "active": "941ef3695e2f35cd",
+  "active": "905c78a58966f723",
   "lastOpenFiles": [
+    "Slack Emoji 驅動 Jira 更新流程.md",
+    "Slack Emoji 驅動 Jira 更新流程 — 完整背景與流程說明.md",
     "未命名.canvas",
     "2025-10-26.md",
     "Develop/Web/前端效能調校.md",
@@ -188,7 +211,6 @@
     "Web Server.md",
     "Develop/Nodejs/Node.js - Udemy - The Complete Node.js Developer Course (3rd Edition).md",
     "Develop/Nodejs",
-    "前端考古題 moc.md",
     "Develop/FetchAPI",
     "Develop/Architecture",
     "Develop/Nuxt",
