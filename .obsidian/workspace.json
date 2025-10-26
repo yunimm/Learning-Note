@@ -4,71 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "54d656bb7e45687c",
+        "id": "a4733016d6b0c23f",
         "type": "tabs",
         "children": [
           {
-            "id": "55a33201a5de2457",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Develop/Web/前端效能調校.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "bc9f76812f1bec8a",
+            "id": "da8c37413f9dea11",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian/Hotkeys.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8b6ec94bc3e079d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian/Hotkeys.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "595ea4d08ca66ede",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Develop/DevOps/Drone CI.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6dea665c2803d444",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.7"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:react",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -153,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Develop/DevOps/Drone CI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +116,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Develop/DevOps/Drone CI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -181,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Develop/DevOps/Drone CI.md"
-              }
+              "state": {}
             }
           },
           {
@@ -213,8 +156,10 @@
       "workspaces:管理工作區配置": false
     }
   },
-  "active": "6dea665c2803d444",
+  "active": "941ef3695e2f35cd",
   "lastOpenFiles": [
+    "未命名.canvas",
+    "2025-10-26.md",
     "Develop/Web/前端效能調校.md",
     "Develop/DevOps/Drone CI.md",
     "Develop/DevOps",
@@ -244,8 +189,6 @@
     "Develop/Nodejs/Node.js - Udemy - The Complete Node.js Developer Course (3rd Edition).md",
     "Develop/Nodejs",
     "前端考古題 moc.md",
-    "Develop/FetchAPI/使用config 設定 axios 的環境變數.md",
-    "Develop/FetchAPI/使用 axios 介接 API.md",
     "Develop/FetchAPI",
     "Develop/Architecture",
     "Develop/Nuxt",
@@ -261,7 +204,6 @@
     "Develop/image/MVC_Explained_In_4minutes_Img01.png",
     "Develop/image/截圖 2023-07-04 上午12.12.03.png",
     "未命名 1.canvas",
-    "未命名.canvas",
     "未命名 4.canvas",
     "未命名 5.canvas",
     "未命名 3.canvas",
