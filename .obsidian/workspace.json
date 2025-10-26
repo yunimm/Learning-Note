@@ -56,9 +56,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6dea665c2803d444",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -203,7 +213,7 @@
       "workspaces:管理工作區配置": false
     }
   },
-  "active": "595ea4d08ca66ede",
+  "active": "6dea665c2803d444",
   "lastOpenFiles": [
     "Develop/Web/前端效能調校.md",
     "Develop/DevOps/Drone CI.md",
