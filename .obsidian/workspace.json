@@ -16,7 +16,9 @@
                 "file": "Slack Emoji 驅動 Jira 更新流程.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Slack Emoji 驅動 Jira 更新流程"
             }
           },
           {
@@ -25,14 +27,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Slack Emoji 驅動 Jira 更新流程 — 完整背景與流程說明.md",
+                "file": "Clippings/Jessica Sachs  Vitest Browser Mode  ViteConf 2025.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Jessica Sachs  Vitest Browser Mode  ViteConf 2025"
+            }
+          },
+          {
+            "id": "208a7d71ffa16106",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "發行記錄 1.9.14"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -51,8 +67,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "檔案瀏覽器"
             }
           },
           {
@@ -67,7 +86,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜尋"
             }
           },
           {
@@ -77,8 +98,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "標籤"
             }
           },
           {
@@ -86,7 +111,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -94,7 +121,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "書籤"
             }
           }
         ]
@@ -117,7 +146,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Slack Emoji 驅動 Jira 更新流程 — 完整背景與流程說明.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +153,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "反向連結"
             }
           },
           {
@@ -134,10 +164,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Slack Emoji 驅動 Jira 更新流程 — 完整背景與流程說明.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-going-out",
+              "title": "對外連結"
             }
           },
           {
@@ -146,8 +177,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Slack Emoji 驅動 Jira 更新流程 — 完整背景與流程說明.md"
-              }
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大綱"
             }
           },
           {
@@ -155,7 +190,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -167,6 +204,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:建立新的 base": false,
       "canvas:建立新畫布": false,
       "switcher:開啟快速切換": false,
       "graph:查看關聯圖": false,
@@ -177,13 +215,13 @@
       "workspaces:管理工作區配置": false
     }
   },
-  "active": "905c78a58966f723",
+  "active": "208a7d71ffa16106",
   "lastOpenFiles": [
-    "Clippings/Make.com 全攻略：告別重複瑣事，擁抱自動化新時代 (前 Integromat).md",
     "Slack Emoji 驅動 Jira 更新流程 — 完整背景與流程說明.md",
+    "Clippings/Jessica Sachs  Vitest Browser Mode  ViteConf 2025.md",
+    "Clippings/Make.com 全攻略：告別重複瑣事，擁抱自動化新時代 (前 Integromat).md",
     "Clippings/Jessica Sachs  Vitest Browser Mode  ViteConf 2025 1.md",
     "Clippings/Jessica Sachs  Vitest Browser Mode  ViteConf 2025 2.md",
-    "Clippings/Jessica Sachs  Vitest Browser Mode  ViteConf 2025.md",
     "炫耀筆記.md",
     "Clippings",
     "Slack Emoji 驅動 Jira 更新流程.md",
